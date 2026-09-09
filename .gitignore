@@ -1,0 +1,48 @@
+# Source documents and captured evidence are not publication inputs.
+*.[pP][dD][fF]
+documents/
+docs/
+captures/
+screenshots/
+.playwright-mcp/
+.vercel/
+
+# Credentials and local configuration.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*
+*secrets*
+auth.json
+.netrc
+.npmrc
+.ssh/
+
+# Pipeline inputs/intermediates intentionally omitted from this snapshot.
+pipeline/content_shards/
+pipeline/oet_batches/
+pipeline/*.jsonl
+pipeline/_*
+pipeline/pdf_images_manifest.json
+
+# Temporary output and tooling.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+coverage/
+test-results/
+playwright-report/
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+tmp/
+temp/
+.cache/
+.DS_Store

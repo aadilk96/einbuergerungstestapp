@@ -1,0 +1,157 @@
+{
+  "generated": "2026-09-08",
+  "our_data": "pipeline/questions.core.json (300 general ids 1-300 + 10 Berlin ids 301-310)",
+  "sources_used": [
+    {
+      "name": "defuncart/einbuergerungstest",
+      "url": "https://raw.githubusercontent.com/defuncart/einbuergerungstest/HEAD/assets_dev/database/deutschland.tsv (+ .../berlin.tsv)",
+      "what": "TSV question database (300 general + 10 Berlin) with an explicit answerIndex column per question, used to build an open-source Einbuergerungstest app.",
+      "why_independent": "Not oet.bamf.de and not the BAMF Gesamtfragenkatalog PDF. A third-party community dataset with its own numbering and its own answer key. Also uniquely provides the Berlin state questions.",
+      "coverage": "pre-2024 catalogue (300 general)"
+    },
+    {
+      "name": "SiaExplains/einbuergerungstest",
+      "url": "https://raw.githubusercontent.com/SiaExplains/einbuergerungstest/HEAD/database.json",
+      "what": "JSON database of 300 general questions, each with an answers[] array and metadata.rightAnswer index.",
+      "why_independent": "A second, separately-authored third-party dataset (different repo/author/format from defuncart and from BAMF). Used as a redundant cross-check so the two externals also validate each other.",
+      "coverage": "pre-2024 catalogue (300 general)"
+    }
+  ],
+  "method": "Aligned by QUESTION TEXT via normalized fuzzy matching (lowercase, umlaut/ss folding, punctuation/ellipsis stripped, difflib ratio), NOT by index. Answers compared by fuzzy text with tolerance for gender-order swaps (token-set equality) and formatting. Duplicate BAMF stems (same question, different option set + different correct answer) handled one-to-many: our answer is counted correct if it matches the marked-correct answer of ANY external question sharing that stem. Image-answer questions (options are 'Bild N'/digits) compared by option INDEX against the best stem match.",
+  "general_summary": {
+    "total_general": 300,
+    "matched_count": 289,
+    "agree_count": 286,
+    "differences_flagged": 5,
+    "genuine_answer_differences": 3,
+    "unmatched_count": 11
+  },
+  "disagreements": [
+    {
+      "id": 13,
+      "question_de": "Im Parlament steht der Begriff \"Opposition\" für …",
+      "our_answer": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+      "external_answer": "defunc: identical (verbatim match). sia: 'alle Abgeordneten, die nicht zu der/den Regierungspartei/en gehören.'",
+      "note": "NOT AN ERROR. defunc matches our answer verbatim. sia differs only in slash-formatting of the same wording (der/den Regierungspartei/en vs der Regierungspartei/den Regierungsparteien) — semantically identical. Our key is correct."
+    },
+    {
+      "id": 14,
+      "question_de": "Meinungsfreiheit in Deutschland heißt, dass ich …",
+      "our_answer": "meine Meinung im Internet äußern kann.",
+      "external_answer": "both externals: 'meine Meinung in Leserbriefen äußern kann.'",
+      "note": "NOT AN ERROR — catalogue revision. Our whole OPTION SET is the revised 2024/2025 BAMF version (our distractor 2 is 'Nazi-, Hamas- oder Islamischer Staat-Symbole', reflecting the Oct-2024 additions); both externals hold the pre-2024 option set where the equivalent correct choice is 'in Leserbriefen'. In both versions the correct answer is the 'ich darf meine Meinung … äußern' option. Our marking is internally correct and mirrors the external logic."
+    },
+    {
+      "id": 72,
+      "question_de": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+      "our_answer": "Friedrich Merz",
+      "external_answer": "both externals: 'Angela Merkel'",
+      "note": "NOT AN ERROR — current-affairs. Both external datasets are stale (Merkel). Friedrich Merz has been Bundeskanzler since May 2025, so our answer is the current/correct one for 2026."
+    },
+    {
+      "id": 73,
+      "question_de": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
+      "our_answer": "CDU/CSU und AfD.",
+      "external_answer": "both externals: 'CDU/CSU und SPD.'",
+      "note": "NOT AN ERROR — current-affairs. Reflects the 21st Bundestag (Feb-2025 election): CDU/CSU largest, AfD second-largest. External option set is pre-2025 (distractors even include FDP, which fell out of the Bundestag in 2025). Our answer is current/correct."
+    },
+    {
+      "id": 236,
+      "question_de": "Wie viele Mitgliedstaaten hat die EU heute?",
+      "our_answer": "27",
+      "external_answer": "defunc: '27' (AGREE). sia: '28' (stale, pre-Brexit).",
+      "note": "NOT AN ERROR. Our '27' is correct post-Brexit and matches defunc exactly. sia's option/answer '28' is outdated. Our key is correct; corroborated by defunc."
+    }
+  ],
+  "low_confidence_alignment_resolved_agree": [
+    {
+      "ids": [
+        81,
+        83,
+        84,
+        86,
+        131,
+        150
+      ],
+      "note": "Stem fuzzy-ratio dipped to 0.66-0.71 purely because of gender-phrasing reordering (e.g. 'die Bundeskanzlerin/den Bundeskanzler' vs external 'den Bundeskanzler / die Bundeskanzlerin'). Each maps to the same-numbered external question and the correct ANSWER matches ours exactly (gender-order swap): 81/83='der Bundestag', 84='repräsentiert das Land', 86='die Bundesversammlung', 131='das Oberhaupt einer Gemeinde', 150='ehrenamtliche(r) Richter(in)'. Counted as AGREE."
+    }
+  ],
+  "unmatched": [
+    {
+      "id": 59,
+      "question_de": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des …",
+      "our_answer": "vor etwa 1700 Jahren",
+      "why": "Absent from both external datasets (best stem ratio ~0.52). Part of the Oct-2024 'jüdisches Leben / Israel / Antisemitismus' additions to the catalogue."
+    },
+    {
+      "id": 66,
+      "question_de": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+      "our_answer": "Berlin und München",
+      "why": "Absent from both external datasets (best ~0.63). 2024 addition."
+    },
+    {
+      "id": 96,
+      "question_de": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+      "our_answer": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+      "why": "Absent from both (best ~0.45). 2024 addition."
+    },
+    {
+      "id": 111,
+      "question_de": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+      "our_answer": "der öffentliche Aufruf zur Vernichtung Israels",
+      "why": "Absent from both (best ~0.56). 2024 addition."
+    },
+    {
+      "id": 118,
+      "question_de": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+      "our_answer": "alle Menschen",
+      "why": "Absent from both (best ~0.47). 2024 addition."
+    },
+    {
+      "id": 149,
+      "question_de": "Was ist ein Beispiel für antisemitisches Verhalten?",
+      "our_answer": "den Holocaust leugnen",
+      "why": "Absent from both (best ~0.51). 2024 addition."
+    },
+    {
+      "id": 182,
+      "question_de": "Wie heißt das jüdische Gebetshaus?",
+      "our_answer": "Synagoge",
+      "why": "Absent from both (best ~0.58). 2024 addition."
+    },
+    {
+      "id": 184,
+      "question_de": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+      "our_answer": "eine Resolution der Vereinten Nationen",
+      "why": "Absent from both (best ~0.58). 2024 addition."
+    },
+    {
+      "id": 206,
+      "question_de": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+      "our_answer": "an die Opfer des Nationalsozialismus",
+      "why": "Absent from both (best ~0.63). 2024 addition."
+    },
+    {
+      "id": 235,
+      "question_de": "Der damalige französische Staatspräsident François Mitterrand und der damalige d…",
+      "our_answer": "Frieden und Sicherheit in den Ländern der EU",
+      "why": "Absent from both (best ~0.38). Image-based question not present in the pre-2024 external datasets."
+    },
+    {
+      "id": 288,
+      "question_de": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+      "our_answer": "aus den nationalsozialistischen Verbrechen gegen Juden",
+      "why": "Absent from both (best ~0.54). 2024 addition."
+    }
+  ],
+  "berlin_summary": {
+    "total_berlin": 10,
+    "independently_checked": true,
+    "source": "defuncart berlin.tsv (independent Berlin state source)",
+    "matched_count": 10,
+    "agree_count": 10,
+    "disagreements": [],
+    "note": "Berlin ids 301-310 map cleanly to berlin1-10 and ALL 10 agree (by option index for the crest/state-number image questions 301 & 308; by fuzzy text incl. gender-swap tolerance for the rest). sia has no Berlin questions, so Berlin is corroborated by one independent source rather than two."
+  },
+  "verdict": "STRONGLY CORROBORATED. Our answer key was cross-checked against TWO mutually-independent third-party datasets (defuncart TSV + SiaExplains JSON), neither of which is oet.bamf.de or the BAMF PDF. Of the 300 general questions, 289 could be aligned by question text and 286 agree exactly (including gender-order/formatting tolerance). The 3 genuine answer differences (ids 14, 72, 73) are all fully explained and are NOT errors in our key: our data is the REVISED 2024/2025 BAMF catalogue, while both external datasets are the older pre-2024 catalogue — so for the two current-affairs questions our answers are the up-to-date correct ones (Merz not Merkel; CDU/CSU+AfD not +SPD) and for id 14 the option set was modernized ('im Internet' is the correct choice in our set, mirroring 'in Leserbriefen' in the old set). Two further flags (ids 13, 236) resolve to agreement — one external agrees verbatim while the other is only cosmetically or stale-value different, and in both cases our answer is right. NO case was found where our marked answer is actually wrong. The 11 unmatched questions are the Oct-2024 'jüdisches Leben / Israel / Antisemitismus' additions (+ one image question) that simply do not exist in these older external datasets; they could NOT be independently verified here and remain checked only against our own oet/pdf capture — a targeted secondary source covering the 2024 additions would be needed to close that gap. Bonus: all 10 Berlin state questions were independently corroborated 10/10 via defuncart's berlin.tsv. Net: the capture/transcription of our answer key is clean; zero accuracy bugs detected."
+}

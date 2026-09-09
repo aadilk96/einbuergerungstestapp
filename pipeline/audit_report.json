@@ -1,0 +1,6208 @@
+[
+  {
+    "id": 1,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "hier Meinungsfreiheit gilt.",
+    "chosen_pdf_option": "hier Meinungsfreiheit gilt.",
+    "oet_options": [
+      "hier Religionsfreiheit gilt.",
+      "die Menschen Steuern zahlen.",
+      "die Menschen das Wahlrecht haben.",
+      "hier Meinungsfreiheit gilt."
+    ],
+    "pdf_options": [
+      "hier Religionsfreiheit gilt.",
+      "die Menschen Steuern zahlen.",
+      "die Menschen das Wahlrecht haben.",
+      "hier Meinungsfreiheit gilt."
+    ]
+  },
+  {
+    "id": 2,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Religionsunterricht teilnimmt.",
+    "chosen_pdf_option": "Religionsunterricht teilnimmt.",
+    "oet_options": [
+      "Geschichtsunterricht teilnimmt.",
+      "Religionsunterricht teilnimmt.",
+      "Politikunterricht teilnimmt.",
+      "Sprachunterricht teilnimmt."
+    ],
+    "pdf_options": [
+      "Geschichtsunterricht teilnimmt.",
+      "Religionsunterricht teilnimmt.",
+      "Politikunterricht teilnimmt.",
+      "Sprachunterricht teilnimmt."
+    ]
+  },
+  {
+    "id": 3,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+    "chosen_pdf_option": "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
+    "oet_options": [
+      "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+      "Der Staat muss sich nicht an die Gesetze halten.",
+      "Nur Deutsche müssen die Gesetze befolgen.",
+      "Die Gerichte machen die Gesetze."
+    ],
+    "pdf_options": [
+      "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
+      "Der Staat muss sich nicht an die Gesetze halten.",
+      "Nur Deutsche müssen die Gesetze befolgen.",
+      "Die Gerichte machen die Gesetze."
+    ]
+  },
+  {
+    "id": 4,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Meinungsfreiheit",
+    "chosen_pdf_option": "Meinungsfreiheit",
+    "oet_options": [
+      "Waffenbesitz",
+      "Faustrecht",
+      "Meinungsfreiheit",
+      "Selbstjustiz"
+    ],
+    "pdf_options": [
+      "Waffenbesitz",
+      "Faustrecht",
+      "Meinungsfreiheit",
+      "Selbstjustiz"
+    ]
+  },
+  {
+    "id": 5,
+    "match_kind": "text",
+    "match_confidence": 0.956,
+    "flags": [],
+    "oet_correct": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+    "chosen_pdf_option": "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+    "oet_options": [
+      "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.",
+      "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+      "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+      "Alle wahlberechtigten Personen müssen wählen."
+    ],
+    "pdf_options": [
+      "Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen bestimmten Kandidaten wählt.",
+      "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+      "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+      "Alle wahlberechtigten Personen müssen wählen."
+    ]
+  },
+  {
+    "id": 6,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Grundgesetz",
+    "chosen_pdf_option": "Grundgesetz",
+    "oet_options": [
+      "Volksgesetz",
+      "Bundesgesetz",
+      "Deutsches Gesetz",
+      "Grundgesetz"
+    ],
+    "pdf_options": [
+      "Volksgesetz",
+      "Bundesgesetz",
+      "Deutsches Gesetz",
+      "Grundgesetz"
+    ]
+  },
+  {
+    "id": 7,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Glaubens- und Gewissensfreiheit.",
+    "chosen_pdf_option": "Glaubens- und Gewissensfreiheit",
+    "oet_options": [
+      "Glaubens- und Gewissensfreiheit.",
+      "Unterhaltung.",
+      "Arbeit.",
+      "Wohnung."
+    ],
+    "pdf_options": [
+      "Glaubens- und Gewissensfreiheit",
+      "Unterhaltung",
+      "Arbeit",
+      "Wohnung"
+    ]
+  },
+  {
+    "id": 8,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Alle sollen gleich viel Geld haben.",
+    "chosen_pdf_option": "Alle sollen gleich viel Geld haben.",
+    "oet_options": [
+      "Die Würde des Menschen ist unantastbar.",
+      "Alle sollen gleich viel Geld haben.",
+      "Jeder Mensch darf seine Meinung sagen.",
+      "Alle sind vor dem Gesetz gleich."
+    ],
+    "pdf_options": [
+      "Die Würde des Menschen ist unantastbar.",
+      "Alle sollen gleich viel Geld haben.",
+      "Jeder Mensch darf seine Meinung sagen.",
+      "Alle sind vor dem Gesetz gleich."
+    ]
+  },
+  {
+    "id": 9,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Asyl",
+    "chosen_pdf_option": "Asyl",
+    "oet_options": [
+      "Schutz der Familie",
+      "Menschenwürde",
+      "Asyl",
+      "Meinungsfreiheit"
+    ],
+    "pdf_options": [
+      "Schutz der Familie",
+      "Menschenwürde",
+      "Asyl",
+      "Meinungsfreiheit"
+    ]
+  },
+  {
+    "id": 10,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Geldstrafe",
+    "chosen_pdf_option": "die Geldstrafe",
+    "oet_options": [
+      "die Prügelstrafe",
+      "die Folter",
+      "die Todesstrafe",
+      "die Geldstrafe"
+    ],
+    "pdf_options": [
+      "die Prügelstrafe",
+      "die Folter",
+      "die Todesstrafe",
+      "die Geldstrafe"
+    ]
+  },
+  {
+    "id": 11,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Grundgesetz",
+    "chosen_pdf_option": "Grundgesetz",
+    "oet_options": [
+      "Grundgesetz",
+      "Bundesverfassung",
+      "Gesetzbuch",
+      "Verfassungsvertrag"
+    ],
+    "pdf_options": [
+      "Grundgesetz",
+      "Bundesverfassung",
+      "Gesetzbuch",
+      "Verfassungsvertrag"
+    ]
+  },
+  {
+    "id": 12,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+    "chosen_pdf_option": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+    "oet_options": [
+      "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+      "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+      "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+      "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+    ],
+    "pdf_options": [
+      "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+      "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+      "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+      "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+    ]
+  },
+  {
+    "id": 13,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+    "chosen_pdf_option": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+    "oet_options": [
+      "die regierenden Parteien.",
+      "die Fraktion mit den meisten Abgeordneten.",
+      "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+      "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
+    ],
+    "pdf_options": [
+      "die regierenden Parteien.",
+      "die Fraktion mit den meisten Abgeordneten.",
+      "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+      "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
+    ]
+  },
+  {
+    "id": 14,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "meine Meinung im Internet äußern kann",
+    "chosen_pdf_option": "meine Meinung im Internet äußern kann.",
+    "oet_options": [
+      "Passanten auf der Straße beschimpfen darf",
+      "meine Meinung im Internet äußern kann",
+      "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf",
+      "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche"
+    ],
+    "pdf_options": [
+      "Passanten auf der Straße beschimpfen darf.",
+      "meine Meinung im Internet äußern kann.",
+      "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",
+      "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche."
+    ]
+  },
+  {
+    "id": 15,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Zwangsarbeit",
+    "chosen_pdf_option": "Zwangsarbeit",
+    "oet_options": [
+      "Militärdienst",
+      "Zwangsarbeit",
+      "freie Berufswahl",
+      "Arbeit im Ausland"
+    ],
+    "pdf_options": [
+      "Militärdienst",
+      "Zwangsarbeit",
+      "freie Berufswahl",
+      "Arbeit im Ausland"
+    ]
+  },
+  {
+    "id": 16,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+    "chosen_pdf_option": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+    "oet_options": [
+      "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+      "bei Meinungsäußerungen über die Bundesregierung",
+      "bei Diskussionen über Religionen",
+      "bei Kritik am Staat"
+    ],
+    "pdf_options": [
+      "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+      "bei Meinungsäußerungen über die Bundesregierung",
+      "bei Diskussionen über Religionen",
+      "bei Kritik am Staat"
+    ]
+  },
+  {
+    "id": 17,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
+    "chosen_pdf_option": "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat.",
+    "oet_options": [
+      "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
+      "Petitionen der Bürger und Bürgerinnen.",
+      "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+      "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat."
+    ],
+    "pdf_options": [
+      "Meinungsfreiheit der Einwohnerinnen und Einwohner.",
+      "Petitionen der Bürgerinnen und Bürger.",
+      "Versammlungsfreiheit der Einwohnerinnen und Einwohner.",
+      "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
+    ]
+  },
+  {
+    "id": 18,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Unantastbarkeit der Menschenwürde",
+    "chosen_pdf_option": "die Unantastbarkeit der Menschenwürde",
+    "oet_options": [
+      "die Unantastbarkeit der Menschenwürde",
+      "das Recht auf Leben",
+      "Religionsfreiheit",
+      "Meinungsfreiheit"
+    ],
+    "pdf_options": [
+      "die Unantastbarkeit der Menschenwürde",
+      "das Recht auf Leben",
+      "Religionsfreiheit",
+      "Meinungsfreiheit"
+    ]
+  },
+  {
+    "id": 19,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Man darf sich seinen Wohnort selbst aussuchen.",
+    "chosen_pdf_option": "Man darf sich seinen Wohnort selbst aussuchen.",
+    "oet_options": [
+      "Man darf sich seinen Wohnort selbst aussuchen.",
+      "Man kann seinen Beruf wechseln.",
+      "Man darf sich für eine andere Religion entscheiden.",
+      "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+    ],
+    "pdf_options": [
+      "Man darf sich seinen Wohnort selbst aussuchen.",
+      "Man kann seinen Beruf wechseln.",
+      "Man darf sich für eine andere Religion entscheiden.",
+      "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+    ]
+  },
+  {
+    "id": 20,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "verfassungswidrig.",
+    "chosen_pdf_option": "verfassungswidrig.",
+    "oet_options": [
+      "tolerant.",
+      "rechtsstaatlich orientiert.",
+      "gesetzestreu.",
+      "verfassungswidrig."
+    ],
+    "pdf_options": [
+      "tolerant.",
+      "rechtsstaatlich orientiert.",
+      "gesetzestreu.",
+      "verfassungswidrig."
+    ]
+  },
+  {
+    "id": 21,
+    "match_kind": "numeric",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1",
+    "chosen_pdf_option": "Bild 1",
+    "oet_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "pdf_options": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ]
+  },
+  {
+    "id": 22,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Republik",
+    "chosen_pdf_option": "Republik",
+    "oet_options": [
+      "Monarchie",
+      "Diktatur",
+      "Republik",
+      "Fürstentum"
+    ],
+    "pdf_options": [
+      "Monarchie",
+      "Diktatur",
+      "Republik",
+      "Fürstentum"
+    ]
+  },
+  {
+    "id": 23,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "bei einer Firma oder Behörde beschäftigt.",
+    "chosen_pdf_option": "bei einer Firma oder Behörde beschäftigt.",
+    "oet_options": [
+      "in kleinen Familienunternehmen beschäftigt.",
+      "ehrenamtlich für ein Bundesland tätig.",
+      "selbständig mit einer eigenen Firma tätig.",
+      "bei einer Firma oder Behörde beschäftigt."
+    ],
+    "pdf_options": [
+      "in kleinen Familienunternehmen beschäftigt.",
+      "ehrenamtlich für ein Bundesland tätig.",
+      "selbstständig mit einer eigenen Firma tätig.",
+      "bei einer Firma oder Behörde beschäftigt."
+    ]
+  },
+  {
+    "id": 24,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "16",
+    "chosen_pdf_option": "16",
+    "oet_options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "pdf_options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ]
+  },
+  {
+    "id": 25,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Elsass-Lothringen",
+    "chosen_pdf_option": "Elsass-Lothringen",
+    "oet_options": [
+      "Elsass-Lothringen",
+      "Nordrhein-Westfalen",
+      "Mecklenburg-Vorpommern",
+      "Sachsen-Anhalt"
+    ],
+    "pdf_options": [
+      "Elsass-Lothringen",
+      "Nordrhein-Westfalen",
+      "Mecklenburg-Vorpommern",
+      "Sachsen-Anhalt"
+    ]
+  },
+  {
+    "id": 26,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "ein demokratischer und sozialer Bundesstaat.",
+    "chosen_pdf_option": "ein demokratischer und sozialer Bundesstaat.",
+    "oet_options": [
+      "eine kommunistische Republik.",
+      "ein demokratischer und sozialer Bundesstaat.",
+      "eine kapitalistische und soziale Monarchie.",
+      "ein sozialer und sozialistischer Bundesstaat."
+    ],
+    "pdf_options": [
+      "eine kommunistische Republik.",
+      "ein demokratischer und sozialer Bundesstaat.",
+      "eine kapitalistische und soziale Monarchie.",
+      "ein sozialer und sozialistischer Bundesstaat."
+    ]
+  },
+  {
+    "id": 27,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "ein Bundesstaat.",
+    "chosen_pdf_option": "ein Bundesstaat.",
+    "oet_options": [
+      "ein sozialistischer Staat.",
+      "ein Bundesstaat.",
+      "eine Diktatur.",
+      "eine Monarchie."
+    ],
+    "pdf_options": [
+      "ein sozialistischer Staat.",
+      "ein Bundesstaat.",
+      "eine Diktatur.",
+      "eine Monarchie."
+    ]
+  },
+  {
+    "id": 28,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das wahlberechtigte Volk",
+    "chosen_pdf_option": "das wahlberechtigte Volk",
+    "oet_options": [
+      "das Militär",
+      "die Wirtschaft",
+      "das wahlberechtigte Volk",
+      "die Verwaltung"
+    ],
+    "pdf_options": [
+      "das Militär",
+      "die Wirtschaft",
+      "das wahlberechtigte Volk",
+      "die Verwaltung"
+    ]
+  },
+  {
+    "id": 29,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Adler",
+    "chosen_pdf_option": "Adler",
+    "oet_options": [
+      "Löwe",
+      "Adler",
+      "Bär",
+      "Pferd"
+    ],
+    "pdf_options": [
+      "Löwe",
+      "Adler",
+      "Bär",
+      "Pferd"
+    ]
+  },
+  {
+    "id": 30,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Pressezensur",
+    "chosen_pdf_option": "Pressezensur",
+    "oet_options": [
+      "regelmäßige Wahlen",
+      "Pressezensur",
+      "Meinungsfreiheit",
+      "verschiedene Parteien"
+    ],
+    "pdf_options": [
+      "regelmäßige Wahlen",
+      "Pressezensur",
+      "Meinungsfreiheit",
+      "verschiedene Parteien"
+    ]
+  },
+  {
+    "id": 31,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Koalition.",
+    "chosen_pdf_option": "Koalition.",
+    "oet_options": [
+      "Einheit.",
+      "Koalition.",
+      "Ministerium.",
+      "Fraktion."
+    ],
+    "pdf_options": [
+      "Einheit.",
+      "Koalition.",
+      "Ministerium.",
+      "Fraktion."
+    ]
+  },
+  {
+    "id": 32,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Presse",
+    "chosen_pdf_option": "Presse",
+    "oet_options": [
+      "Gesetzgebung",
+      "Regierung",
+      "Presse",
+      "Rechtsprechung"
+    ],
+    "pdf_options": [
+      "Gesetzgebung",
+      "Regierung",
+      "Presse",
+      "Rechtsprechung"
+    ]
+  },
+  {
+    "id": 33,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+    "chosen_pdf_option": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+    "oet_options": [
+      "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+      "bilden die Religionsgemeinschaften den Staat.",
+      "ist der Staat abhängig von den Religionsgemeinschaften.",
+      "bilden Staat und Religionsgemeinschaften eine Einheit."
+    ],
+    "pdf_options": [
+      "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+      "bilden die Religionsgemeinschaften den Staat.",
+      "ist der Staat abhängig von den Religionsgemeinschaften.",
+      "bilden Staat und Religionsgemeinschaften eine Einheit."
+    ]
+  },
+  {
+    "id": 34,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "eine Monarchie",
+    "chosen_pdf_option": "eine Monarchie",
+    "oet_options": [
+      "eine Demokratie",
+      "ein Rechtsstaat",
+      "eine Monarchie",
+      "ein Sozialstaat"
+    ],
+    "pdf_options": [
+      "eine Demokratie",
+      "ein Rechtsstaat",
+      "eine Monarchie",
+      "ein Sozialstaat"
+    ]
+  },
+  {
+    "id": 35,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sozialabgaben",
+    "chosen_pdf_option": "Sozialabgaben",
+    "oet_options": [
+      "Kirchensteuern",
+      "Sozialabgaben",
+      "Spendengeldern",
+      "Vereinsbeiträgen"
+    ],
+    "pdf_options": [
+      "Kirchensteuer",
+      "Sozialabgaben",
+      "Spendengeldern",
+      "Vereinsbeiträgen"
+    ]
+  },
+  {
+    "id": 36,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Krankenversicherung",
+    "chosen_pdf_option": "die Krankenversicherung",
+    "oet_options": [
+      "die Krankenversicherung",
+      "die Autoversicherung",
+      "die Gebäudeversicherung",
+      "die Haftpflichtversicherung"
+    ],
+    "pdf_options": [
+      "die Krankenversicherung",
+      "die Autoversicherung",
+      "die Gebäudeversicherung",
+      "die Haftpflichtversicherung"
+    ]
+  },
+  {
+    "id": 37,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ministerpräsident/ Ministerpräsidentin",
+    "chosen_pdf_option": "Ministerpräsidentin/Ministerpräsident",
+    "oet_options": [
+      "Erster Minister/ Erste Ministerin",
+      "Premierminister/ Premierministerin",
+      "Senator/ Senatorin",
+      "Ministerpräsident/ Ministerpräsidentin"
+    ],
+    "pdf_options": [
+      "Erste Ministerin/Erster Minister",
+      "Premierministerin/Premierminister",
+      "Senatorin/Senator",
+      "Ministerpräsidentin/Ministerpräsident"
+    ]
+  },
+  {
+    "id": 38,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Bundesstaat.",
+    "chosen_pdf_option": "Bundesstaat.",
+    "oet_options": [
+      "Staatenverbund.",
+      "Bundesstaat.",
+      "Staatenbund.",
+      "Zentralstaat."
+    ],
+    "pdf_options": [
+      "Staatenverbund.",
+      "Bundesstaat.",
+      "Staatenbund.",
+      "Zentralstaat."
+    ]
+  },
+  {
+    "id": 39,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "eine eigene Regierung",
+    "chosen_pdf_option": "eine eigene Regierung",
+    "oet_options": [
+      "einen eigenen Außenminister / eine eigene Außenministerin",
+      "eine eigene Währung",
+      "eine eigene Armee",
+      "eine eigene Regierung"
+    ],
+    "pdf_options": [
+      "eine eigene Außenministerin/einen eigenen Außenminister",
+      "eine eigene Währung",
+      "eine eigene Armee",
+      "eine eigene Regierung"
+    ]
+  },
+  {
+    "id": 40,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Einigkeit und Recht und Freiheit ...",
+    "chosen_pdf_option": "Einigkeit und Recht und Freiheit …",
+    "oet_options": [
+      "Völker, hört die Signale ...",
+      "Einigkeit und Recht und Freiheit ...",
+      "Freude schöner Götterfunken ...",
+      "Deutschland einig Vaterland ..."
+    ],
+    "pdf_options": [
+      "Völker, hört die Signale …",
+      "Einigkeit und Recht und Freiheit …",
+      "Freude schöner Götterfunken …",
+      "Deutschland einig Vaterland …"
+    ]
+  },
+  {
+    "id": 41,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+    "chosen_pdf_option": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+    "oet_options": [
+      "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+      "damit Bestechung in der Politik begrenzt wird",
+      "um politische Demonstrationen zu verhindern",
+      "um wirtschaftlichen Wettbewerb anzuregen"
+    ],
+    "pdf_options": [
+      "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+      "damit Bestechung in der Politik begrenzt wird",
+      "um politische Demonstrationen zu verhindern",
+      "um wirtschaftlichen Wettbewerb anzuregen"
+    ]
+  },
+  {
+    "id": 42,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Parlament",
+    "chosen_pdf_option": "das Parlament",
+    "oet_options": [
+      "die Regierung",
+      "das Parlament",
+      "die Gerichte",
+      "die Polizei"
+    ],
+    "pdf_options": [
+      "die Regierung",
+      "das Parlament",
+      "die Gerichte",
+      "die Polizei"
+    ]
+  },
+  {
+    "id": 43,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "wenn sie gegen die Verfassung kämpft",
+    "chosen_pdf_option": "wenn sie gegen die Verfassung kämpft",
+    "oet_options": [
+      "wenn ihr Wahlkampf zu teuer ist",
+      "wenn sie gegen die Verfassung kämpft",
+      "wenn sie Kritik am Staatsoberhaupt äußert",
+      "wenn ihr Programm eine neue Richtung vorschlägt"
+    ],
+    "pdf_options": [
+      "wenn ihr Wahlkampf zu teuer ist",
+      "wenn sie gegen die Verfassung kämpft",
+      "wenn sie Kritik am Staatsoberhaupt äußert",
+      "wenn ihr Programm eine neue Richtung vorschlägt"
+    ]
+  },
+  {
+    "id": 44,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "den Bundespräsidenten / die Bundespräsidentin",
+    "chosen_pdf_option": "Die Bundespräsidentin/den Bundespräsidenten",
+    "oet_options": [
+      "Abgeordnete des EU-Parlaments",
+      "den Bundespräsidenten / die Bundespräsidentin",
+      "Landtagsabgeordnete",
+      "Bundestagsabgeordnete"
+    ],
+    "pdf_options": [
+      "Abgeordnete des EU-Parlaments",
+      "Die Bundespräsidentin/den Bundespräsidenten",
+      "Landtagsabgeordnete",
+      "Bundestagsabgeordnete"
+    ]
+  },
+  {
+    "id": 45,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sozialversicherung",
+    "chosen_pdf_option": "Sozialversicherung",
+    "oet_options": [
+      "Sozialversicherung",
+      "Unfallversicherung",
+      "Hausratversicherung",
+      "Haftpflicht- und Feuerversicherung"
+    ],
+    "pdf_options": [
+      "Sozialversicherung",
+      "Unfallversicherung",
+      "Hausratsversicherung",
+      "Haftpflicht- und Feuerversicherung"
+    ]
+  },
+  {
+    "id": 46,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Er baut Straßen und Schulen.",
+    "chosen_pdf_option": "Er baut Straßen und Schulen.",
+    "oet_options": [
+      "Er baut Straßen und Schulen.",
+      "Er verkauft Lebensmittel und Kleidung.",
+      "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+      "Er produziert Autos und Busse."
+    ],
+    "pdf_options": [
+      "Er baut Straßen und Schulen.",
+      "Er verkauft Lebensmittel und Kleidung.",
+      "Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.",
+      "Er produziert Autos und Busse."
+    ]
+  },
+  {
+    "id": 47,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+    "chosen_pdf_option": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+    "oet_options": [
+      "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+      "Er zahlt Kindergeld.",
+      "Er unterstützt Museen.",
+      "Er fördert Sportler und Sportlerinnen."
+    ],
+    "pdf_options": [
+      "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+      "Er zahlt Kindergeld.",
+      "Er unterstützt Museen.",
+      "Er fördert Sportlerinnen und Sportler."
+    ]
+  },
+  {
+    "id": 48,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Bürgerversammlung",
+    "chosen_pdf_option": "die Bürgerversammlung",
+    "oet_options": [
+      "der Bundesrat",
+      "der Bundespräsident / die Bundespräsidentin",
+      "die Bürgerversammlung",
+      "die Regierung"
+    ],
+    "pdf_options": [
+      "der Bundesrat",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bürgerversammlung",
+      "die Regierung"
+    ]
+  },
+  {
+    "id": 49,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Bundesländer",
+    "chosen_pdf_option": "die Bundesländer",
+    "oet_options": [
+      "die Lehrer und Lehrerinnen",
+      "die Bundesländer",
+      "das Familienministerium",
+      "die Universitäten"
+    ],
+    "pdf_options": [
+      "die Lehrer und Lehrerinnen",
+      "die Bundesländer",
+      "das Familienministerium",
+      "die Universitäten"
+    ]
+  },
+  {
+    "id": 50,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "soziale Marktwirtschaft.",
+    "chosen_pdf_option": "soziale Marktwirtschaft.",
+    "oet_options": [
+      "freie Zentralwirtschaft.",
+      "soziale Marktwirtschaft.",
+      "gelenkte Zentralwirtschaft.",
+      "Planwirtschaft."
+    ],
+    "pdf_options": [
+      "freie Zentralwirtschaft.",
+      "soziale Marktwirtschaft.",
+      "gelenkte Zentralwirtschaft.",
+      "Planwirtschaft."
+    ]
+  },
+  {
+    "id": 51,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+    "chosen_pdf_option": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+    "oet_options": [
+      "Menschen sich kritisch über die Regierung äußern können.",
+      "Bürger friedlich demonstrieren gehen dürfen.",
+      "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+      "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+    ],
+    "pdf_options": [
+      "Menschen sich kritisch über die Regierung äußern können.",
+      "Bürger friedlich demonstrieren gehen dürfen.",
+      "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+      "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+    ]
+  },
+  {
+    "id": 52,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Volke aus.",
+    "chosen_pdf_option": "Volke aus.",
+    "oet_options": [
+      "Volke aus.",
+      "Bundestag aus.",
+      "preußischen König aus.",
+      "Bundesverfassungsgericht aus."
+    ],
+    "pdf_options": [
+      "Volke aus.",
+      "Bundestag aus.",
+      "preußischen König aus.",
+      "Bundesverfassungsgericht aus."
+    ]
+  },
+  {
+    "id": 53,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Der Staat muss die Gesetze einhalten.",
+    "chosen_pdf_option": "Der Staat muss die Gesetze einhalten.",
+    "oet_options": [
+      "Der Staat hat Recht.",
+      "Es gibt nur rechte Parteien.",
+      "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
+      "Der Staat muss die Gesetze einhalten."
+    ],
+    "pdf_options": [
+      "Der Staat hat Recht.",
+      "Es gibt nur rechte Parteien.",
+      "Die Bürgerinnen und Bürger entscheiden über Gesetze.",
+      "Der Staat muss die Gesetze einhalten."
+    ]
+  },
+  {
+    "id": 54,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Direktive",
+    "chosen_pdf_option": "Direktive",
+    "oet_options": [
+      "Legislative",
+      "Judikative",
+      "Exekutive",
+      "Direktive"
+    ],
+    "pdf_options": [
+      "Legislative",
+      "Judikative",
+      "Exekutive",
+      "Direktive"
+    ]
+  },
+  {
+    "id": 55,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "den Bundestagssitz in Berlin",
+    "chosen_pdf_option": "den Bundestagssitz in Berlin",
+    "oet_options": [
+      "den Bundestagssitz in Berlin",
+      "das Bundesverfassungsgericht in Karlsruhe",
+      "das Bundesratsgebäude in Berlin",
+      "das Bundeskanzleramt in Berlin"
+    ],
+    "pdf_options": [
+      "den Bundestagssitz in Berlin",
+      "das Bundesverfassungsgericht in Karlsruhe",
+      "das Bundesratsgebäude in Berlin",
+      "das Bundeskanzleramt in Berlin"
+    ]
+  },
+  {
+    "id": 56,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ordnungsamt",
+    "chosen_pdf_option": "Ordnungsamt",
+    "oet_options": [
+      "Pfarramt",
+      "Ordnungsamt",
+      "Finanzamt",
+      "Auswärtiges Amt"
+    ],
+    "pdf_options": [
+      "Pfarramt",
+      "Ordnungsamt",
+      "Finanzamt",
+      "Auswärtiges Amt"
+    ]
+  },
+  {
+    "id": 57,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion",
+    "chosen_pdf_option": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion",
+    "oet_options": [
+      "der / die älteste Abgeordnete im Parlament",
+      "der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes",
+      "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin",
+      "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion"
+    ],
+    "pdf_options": [
+      "die/der älteste Abgeordnete im Parlament",
+      "die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes",
+      "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler",
+      "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
+    ]
+  },
+  {
+    "id": 58,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Bundespräsident / die Bundespräsidentin",
+    "chosen_pdf_option": "die Bundespräsidentin/der Bundespräsident",
+    "oet_options": [
+      "der Präsident / die Präsidentin des Bundesverfassungsgerichtes",
+      "der Bundespräsident / die Bundespräsidentin",
+      "der Bundesratspräsident / die Bundesratspräsidentin",
+      "der Bundestagspräsident / die Bundestagspräsidentin"
+    ],
+    "pdf_options": [
+      "die Präsidentin/der Präsident des Bundesverfassungsgerichtes",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bundesratspräsidentin/der Bundesratspräsident",
+      "die Bundestagspräsidentin/der Bundestagspräsident"
+    ]
+  },
+  {
+    "id": 59,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [
+      "ambiguous_answer_match"
+    ],
+    "oet_correct": "vor etwa 1700 Jahren",
+    "chosen_pdf_option": "vor etwa 1700 Jahren",
+    "oet_options": [
+      "vor etwa 300 Jahren",
+      "vor etwa 700 Jahren",
+      "vor etwa 1150 Jahren",
+      "vor etwa 1700 Jahren"
+    ],
+    "pdf_options": [
+      "vor etwa 300 Jahren",
+      "vor etwa 700 Jahren",
+      "vor etwa 1150 Jahren",
+      "vor etwa 1700 Jahren"
+    ]
+  },
+  {
+    "id": 60,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Legislative.",
+    "chosen_pdf_option": "Legislative.",
+    "oet_options": [
+      "Exekutive.",
+      "Legislative.",
+      "Direktive.",
+      "Judikative."
+    ],
+    "pdf_options": [
+      "Exekutive.",
+      "Legislative.",
+      "Direktive.",
+      "Judikative."
+    ]
+  },
+  {
+    "id": 61,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Die Staatsgewalt geht vom Volke aus.",
+    "chosen_pdf_option": "Die Staatsgewalt geht vom Volke aus.",
+    "oet_options": [
+      "Der König / die Königin herrscht über das Volk.",
+      "Das Bundesverfassungsgericht steht über der Verfassung.",
+      "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+      "Die Staatsgewalt geht vom Volke aus."
+    ],
+    "pdf_options": [
+      "Die Königin/der König herrscht über das Volk.",
+      "Das Bundesverfassungsgericht steht über der Verfassung.",
+      "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+      "Die Staatsgewalt geht vom Volke aus."
+    ]
+  },
+  {
+    "id": 62,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Landtagswahl.",
+    "chosen_pdf_option": "Landtagswahl",
+    "oet_options": [
+      "Kommunalwahl.",
+      "Landtagswahl.",
+      "Europawahl.",
+      "Bundestagswahl."
+    ],
+    "pdf_options": [
+      "Kommunalwahl",
+      "Landtagswahl",
+      "Europawahl",
+      "Bundestagswahl"
+    ]
+  },
+  {
+    "id": 63,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Gerichte",
+    "chosen_pdf_option": "die Gerichte",
+    "oet_options": [
+      "die Polizei",
+      "die Gerichte",
+      "das Finanzamt",
+      "die Ministerien"
+    ],
+    "pdf_options": [
+      "die Polizei",
+      "die Gerichte",
+      "das Finanzamt",
+      "die Ministerien"
+    ]
+  },
+  {
+    "id": 64,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Bund, Länder und Kommunen.",
+    "chosen_pdf_option": "Bund, Länder und Kommunen.",
+    "oet_options": [
+      "vier Besatzungszonen.",
+      "einen Oststaat und einen Weststaat.",
+      "16 Kantone.",
+      "Bund, Länder und Kommunen."
+    ],
+    "pdf_options": [
+      "vier Besatzungszonen.",
+      "einen Oststaat und einen Weststaat.",
+      "16 Kantone.",
+      "Bund, Länder und Kommunen."
+    ]
+  },
+  {
+    "id": 65,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Bundeskabinett zu bilden.",
+    "chosen_pdf_option": "das Bundeskabinett zu bilden.",
+    "oet_options": [
+      "Gesetze zu entwerfen.",
+      "die Bundesregierung zu kontrollieren.",
+      "den Bundeskanzler / die Bundeskanzlerin zu wählen.",
+      "das Bundeskabinett zu bilden."
+    ],
+    "pdf_options": [
+      "Gesetze zu entwerfen.",
+      "die Bundesregierung zu kontrollieren.",
+      "die Bundeskanzlerin/den Bundeskanzler zu wählen.",
+      "das Bundeskabinett zu bilden."
+    ]
+  },
+  {
+    "id": 66,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Berlin und München",
+    "chosen_pdf_option": "Berlin und München",
+    "oet_options": [
+      "Berlin und München",
+      "Hamburg und Essen",
+      "Nürnberg und Stuttgart",
+      "Worms und Speyer"
+    ],
+    "pdf_options": [
+      "Berlin und München",
+      "Hamburg und Essen",
+      "Nürnberg und Stuttgart",
+      "Worms und Speyer"
+    ]
+  },
+  {
+    "id": 67,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Schulpolitik",
+    "chosen_pdf_option": "Schulpolitik",
+    "oet_options": [
+      "Verteidigungspolitik",
+      "Außenpolitik",
+      "Wirtschaftspolitik",
+      "Schulpolitik"
+    ],
+    "pdf_options": [
+      "Verteidigungspolitik",
+      "Außenpolitik",
+      "Wirtschaftspolitik",
+      "Schulpolitik"
+    ]
+  },
+  {
+    "id": 68,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "weil es nach dem Grundgesetz seine Aufgabe ist",
+    "chosen_pdf_option": "weil es nach dem Grundgesetz seine Aufgabe ist",
+    "oet_options": [
+      "weil es in Deutschland nur staatliche Schulen gibt",
+      "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen",
+      "weil es in den Bundesländern verschiedene Schulen gibt",
+      "weil es nach dem Grundgesetz seine Aufgabe ist"
+    ],
+    "pdf_options": [
+      "weil es in Deutschland nur staatliche Schulen gibt",
+      "weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen",
+      "weil es in den Bundesländern verschiedene Schulen gibt",
+      "weil es nach dem Grundgesetz seine Aufgabe ist"
+    ]
+  },
+  {
+    "id": 69,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Gemeinden",
+    "chosen_pdf_option": "Gemeinden",
+    "oet_options": [
+      "Stadträte",
+      "Landräte",
+      "Gemeinden",
+      "Bezirksämter"
+    ],
+    "pdf_options": [
+      "Stadträte",
+      "Landräte",
+      "Gemeinden",
+      "Bezirksämter"
+    ]
+  },
+  {
+    "id": 70,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.",
+    "chosen_pdf_option": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.",
+    "oet_options": [
+      "Er / Sie führt die Regierungsgeschäfte.",
+      "Er / Sie kontrolliert die Regierungspartei.",
+      "Er / Sie wählt die Minister / Ministerinnen aus.",
+      "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor."
+    ],
+    "pdf_options": [
+      "Sie/Er führt die Regierungsgeschäfte.",
+      "Sie/Er kontrolliert die Regierungspartei.",
+      "Sie/Er wählt die Ministerinnen/Minister aus.",
+      "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
+    ]
+  },
+  {
+    "id": 71,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [
+      "ambiguous_answer_match"
+    ],
+    "oet_correct": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+    "chosen_pdf_option": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+    "oet_options": [
+      "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+      "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+      "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen.",
+      "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+    ],
+    "pdf_options": [
+      "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+      "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+      "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",
+      "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+    ]
+  },
+  {
+    "id": 72,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Friedrich Merz",
+    "chosen_pdf_option": "Friedrich Merz",
+    "oet_options": [
+      "Gerhard Schröder",
+      "Angela Merkel",
+      "Ursula von der Leyen",
+      "Friedrich Merz"
+    ],
+    "pdf_options": [
+      "Gerhard Schröder",
+      "Angela Merkel",
+      "Ursula von der Leyen",
+      "Friedrich Merz"
+    ]
+  },
+  {
+    "id": 73,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "CDU/CSU und AfD.",
+    "chosen_pdf_option": "CDU/CSU und AfD.",
+    "oet_options": [
+      "CDU/CSU und AfD.",
+      "Die Linke und Bündnis 90/Die Grünen.",
+      "Bündnis 90/Die Grünen und SPD.",
+      "Die Linke und CDU/CSU."
+    ],
+    "pdf_options": [
+      "CDU/CSU und AfD.",
+      "Die Linke und Bündnis 90/Die Grünen.",
+      "Bündnis 90/Die Grünen und SPD.",
+      "Die Linke und CDU/CSU."
+    ]
+  },
+  {
+    "id": 74,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Bundestag",
+    "chosen_pdf_option": "Bundestag",
+    "oet_options": [
+      "Bundesversammlung",
+      "Volkskammer",
+      "Bundestag",
+      "Bundesgerichtshof"
+    ],
+    "pdf_options": [
+      "Bundesversammlung",
+      "Volkskammer",
+      "Bundestag",
+      "Bundesgerichtshof"
+    ]
+  },
+  {
+    "id": 75,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Frank-Walter Steinmeier",
+    "chosen_pdf_option": "Frank-Walter Steinmeier",
+    "oet_options": [
+      "Frank-Walter Steinmeier",
+      "Bärbel Bas",
+      "Bodo Ramelow",
+      "Joachim Gauck"
+    ],
+    "pdf_options": [
+      "Frank-Walter Steinmeier",
+      "Bärbel Bas",
+      "Bodo Ramelow",
+      "Joachim Gauck"
+    ]
+  },
+  {
+    "id": 76,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Christlich Demokratische Union",
+    "chosen_pdf_option": "Christlich Demokratische Union",
+    "oet_options": [
+      "Christliche Deutsche Union",
+      "Club Deutscher Unternehmer",
+      "Christlicher Deutscher Umweltschutz",
+      "Christlich Demokratische Union"
+    ],
+    "pdf_options": [
+      "Christliche Deutsche Union",
+      "Club Deutscher Unternehmer",
+      "Christlicher Deutscher Umweltschutz",
+      "Christlich Demokratische Union"
+    ]
+  },
+  {
+    "id": 77,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die deutsche Armee",
+    "chosen_pdf_option": "die deutsche Armee",
+    "oet_options": [
+      "die deutsche Polizei",
+      "ein deutscher Hafen",
+      "eine deutsche Bürgerinitiative",
+      "die deutsche Armee"
+    ],
+    "pdf_options": [
+      "die deutsche Polizei",
+      "ein deutscher Hafen",
+      "eine deutsche Bürgerinitiative",
+      "die deutsche Armee"
+    ]
+  },
+  {
+    "id": 78,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sozialdemokratische Partei Deutschlands",
+    "chosen_pdf_option": "Sozialdemokratische Partei Deutschlands",
+    "oet_options": [
+      "Sozialistische Partei Deutschlands",
+      "Sozialpolitische Partei Deutschlands",
+      "Sozialdemokratische Partei Deutschlands",
+      "Sozialgerechte Partei Deutschlands"
+    ],
+    "pdf_options": [
+      "Sozialistische Partei Deutschlands",
+      "Sozialpolitische Partei Deutschlands",
+      "Sozialdemokratische Partei Deutschlands",
+      "Sozialgerechte Partei Deutschlands"
+    ]
+  },
+  {
+    "id": 79,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Freie Demokratische Partei",
+    "chosen_pdf_option": "Freie Demokratische Partei",
+    "oet_options": [
+      "Friedliche Demonstrative Partei",
+      "Freie Deutschland Partei",
+      "Führende Demokratische Partei",
+      "Freie Demokratische Partei"
+    ],
+    "pdf_options": [
+      "Friedliche Demonstrative Partei",
+      "Freie Deutschland Partei",
+      "Führende Demokratische Partei",
+      "Freie Demokratische Partei"
+    ]
+  },
+  {
+    "id": 80,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Bundesverfassungsgericht",
+    "chosen_pdf_option": "Bundesverfassungsgericht",
+    "oet_options": [
+      "Oberlandesgericht",
+      "Amtsgericht",
+      "Bundesverfassungsgericht",
+      "Verwaltungsgericht"
+    ],
+    "pdf_options": [
+      "Oberlandesgericht",
+      "Amtsgericht",
+      "Bundesverfassungsgericht",
+      "Verwaltungsgericht"
+    ]
+  },
+  {
+    "id": 81,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Bundestag",
+    "chosen_pdf_option": "der Bundestag",
+    "oet_options": [
+      "der Bundesrat",
+      "die Bundesversammlung",
+      "das Volk",
+      "der Bundestag"
+    ],
+    "pdf_options": [
+      "der Bundesrat",
+      "die Bundesversammlung",
+      "das Volk",
+      "der Bundestag"
+    ]
+  },
+  {
+    "id": 82,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Bundeskanzler / die Bundeskanzlerin",
+    "chosen_pdf_option": "die Bundeskanzlerin/der Bundeskanzler",
+    "oet_options": [
+      "der Bundestagspräsident / die Bundestagspräsidentin",
+      "der Bundespräsident / die Bundespräsidentin",
+      "der Bundesratspräsident / die Bundesratspräsidentin",
+      "der Bundeskanzler / die Bundeskanzlerin"
+    ],
+    "pdf_options": [
+      "die Bundestagspräsidentin/der Bundestagspräsident",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bundesratspräsidentin/der Bundesratspräsident",
+      "die Bundeskanzlerin/der Bundeskanzler"
+    ]
+  },
+  {
+    "id": 83,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Bundestag",
+    "chosen_pdf_option": "der Bundestag",
+    "oet_options": [
+      "das Volk",
+      "die Bundesversammlung",
+      "der Bundestag",
+      "die Bundesregierung"
+    ],
+    "pdf_options": [
+      "das Volk",
+      "die Bundesversammlung",
+      "der Bundestag",
+      "die Bundesregierung"
+    ]
+  },
+  {
+    "id": 84,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "repräsentiert das Land.",
+    "chosen_pdf_option": "repräsentiert das Land.",
+    "oet_options": [
+      "regiert das Land.",
+      "entwirft die Gesetze.",
+      "repräsentiert das Land.",
+      "überwacht die Einhaltung der Gesetze."
+    ],
+    "pdf_options": [
+      "regiert das Land.",
+      "entwirft die Gesetze.",
+      "repräsentiert das Land.",
+      "überwacht die Einhaltung der Gesetze."
+    ]
+  },
+  {
+    "id": 85,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Regierungsvertreter der Bundesländer",
+    "chosen_pdf_option": "die Regierungsvertreter der Bundesländer",
+    "oet_options": [
+      "die Abgeordneten des Bundestages",
+      "die Minister und Ministerinnen der Bundesregierung",
+      "die Regierungsvertreter der Bundesländer",
+      "die Parteimitglieder"
+    ],
+    "pdf_options": [
+      "die Abgeordneten des Bundestages",
+      "die Ministerinnen und Minister der Bundesregierung",
+      "die Regierungsvertreter der Bundesländer",
+      "die Parteimitglieder"
+    ]
+  },
+  {
+    "id": 86,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Bundesversammlung",
+    "chosen_pdf_option": "die Bundesversammlung",
+    "oet_options": [
+      "die Bundesversammlung",
+      "der Bundesrat",
+      "das Bundesparlament",
+      "das Bundesverfassungsgericht"
+    ],
+    "pdf_options": [
+      "die Bundesversammlung",
+      "der Bundesrat",
+      "das Bundesparlament",
+      "das Bundesverfassungsgericht"
+    ]
+  },
+  {
+    "id": 87,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Bundespräsident / die Bundespräsidentin",
+    "chosen_pdf_option": "die Bundespräsidentin/der Bundespräsident",
+    "oet_options": [
+      "der Bundeskanzler / die Bundeskanzlerin",
+      "der Bundespräsident / die Bundespräsidentin",
+      "der Bundesratspräsident / die Bundesratspräsidentin",
+      "der Bundestagspräsident / die Bundestagspräsidentin"
+    ],
+    "pdf_options": [
+      "die Bundeskanzlerin/der Bundeskanzler",
+      "die Bundespräsidentin/der Bundespräsident",
+      "die Bundesratspräsidentin/der Bundesratspräsident",
+      "die Bundestagspräsidentin/der Bundestagspräsident"
+    ]
+  },
+  {
+    "id": 88,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "kontrolliert die Regierung.",
+    "chosen_pdf_option": "kontrolliert die Regierung.",
+    "oet_options": [
+      "kontrolliert die Regierung.",
+      "entscheidet, wer Bundesminister / Bundesministerin wird.",
+      "bestimmt, wer im Bundesrat sitzt.",
+      "schlägt die Regierungschefs / Regierungschefinnen der Länder vor."
+    ],
+    "pdf_options": [
+      "kontrolliert die Regierung.",
+      "entscheidet, wer Bundesministerin/Bundesminister wird.",
+      "bestimmt, wer im Bundesrat sitzt.",
+      "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
+    ]
+  },
+  {
+    "id": 89,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Fraktion",
+    "chosen_pdf_option": "Fraktion",
+    "oet_options": [
+      "Verband",
+      "Ältestenrat",
+      "Fraktion",
+      "Opposition"
+    ],
+    "pdf_options": [
+      "Verband",
+      "Ältestenrat",
+      "Fraktion",
+      "Opposition"
+    ]
+  },
+  {
+    "id": 90,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "den Bundesrat.",
+    "chosen_pdf_option": "den Bundesrat.",
+    "oet_options": [
+      "den Bundesrat.",
+      "die Bundesversammlung.",
+      "den Bundestag.",
+      "die Bundesregierung."
+    ],
+    "pdf_options": [
+      "den Bundesrat.",
+      "die Bundesversammlung.",
+      "den Bundestag.",
+      "die Bundesregierung."
+    ]
+  },
+  {
+    "id": 91,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+    "chosen_pdf_option": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+    "oet_options": [
+      "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+      "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+      "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+      "leichter, wenn es sich um ein reiches Bundesland handelt."
+    ],
+    "pdf_options": [
+      "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+      "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+      "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+      "leichter, wenn es sich um ein reiches Bundesland handelt."
+    ]
+  },
+  {
+    "id": 92,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Christlich Soziale Union",
+    "chosen_pdf_option": "Christlich Soziale Union",
+    "oet_options": [
+      "Christlich Sichere Union",
+      "Christlich Süddeutsche Union",
+      "Christlich Sozialer Unternehmerverband",
+      "Christlich Soziale Union"
+    ],
+    "pdf_options": [
+      "Christlich Sichere Union",
+      "Christlich Süddeutsche Union",
+      "Christlich Sozialer Unternehmerverband",
+      "Christlich Soziale Union"
+    ]
+  },
+  {
+    "id": 93,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "mehr Sitze erhält die Partei im Parlament.",
+    "chosen_pdf_option": "mehr Sitze erhält die Partei im Parlament.",
+    "oet_options": [
+      "weniger Erststimmen kann sie haben.",
+      "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+      "größer ist das Risiko, eine Koalition bilden zu müssen.",
+      "mehr Sitze erhält die Partei im Parlament."
+    ],
+    "pdf_options": [
+      "weniger Erststimmen kann sie haben.",
+      "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+      "größer ist das Risiko, eine Koalition bilden zu müssen.",
+      "mehr Sitze erhält die Partei im Parlament."
+    ]
+  },
+  {
+    "id": 94,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "18",
+    "chosen_pdf_option": "18",
+    "oet_options": [
+      "16",
+      "18",
+      "21",
+      "23"
+    ],
+    "pdf_options": [
+      "16",
+      "18",
+      "21",
+      "23"
+    ]
+  },
+  {
+    "id": 95,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Schulpflicht",
+    "chosen_pdf_option": "Schulpflicht",
+    "oet_options": [
+      "Wahlpflicht",
+      "Schulpflicht",
+      "Schweigepflicht",
+      "Religionspflicht"
+    ],
+    "pdf_options": [
+      "Wahlpflicht",
+      "Schulpflicht",
+      "Schweigepflicht",
+      "Religionspflicht"
+    ]
+  },
+  {
+    "id": 96,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+    "chosen_pdf_option": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+    "oet_options": [
+      "Kürzung sozialer Leistungen",
+      "bis zu 100 Sozialstunden",
+      "gar nicht, Holocaustleugnung ist erlaubt",
+      "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+    ],
+    "pdf_options": [
+      "Kürzung sozialer Leistungen",
+      "bis zu 100 Sozialstunden",
+      "gar nicht, Holocaustleugnung ist erlaubt",
+      "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+    ]
+  },
+  {
+    "id": 97,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sozialversicherung",
+    "chosen_pdf_option": "Sozialversicherung",
+    "oet_options": [
+      "Sozialversicherung",
+      "Sozialhilfe",
+      "Kindergeld",
+      "Wohngeld"
+    ],
+    "pdf_options": [
+      "Sozialversicherung",
+      "Sozialhilfe",
+      "Kindergeld",
+      "Wohngeld"
+    ]
+  },
+  {
+    "id": 98,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "kann die Regierung ihre Mehrheit verlieren.",
+    "chosen_pdf_option": "kann die Regierung ihre Mehrheit verlieren.",
+    "oet_options": [
+      "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+      "kann die Regierung ihre Mehrheit verlieren.",
+      "muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.",
+      "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen."
+    ],
+    "pdf_options": [
+      "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+      "kann die Regierung ihre Mehrheit verlieren.",
+      "muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.",
+      "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen."
+    ]
+  },
+  {
+    "id": 99,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+    "chosen_pdf_option": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+    "oet_options": [
+      "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+      "nur Arbeitnehmer / Arbeitnehmerinnen",
+      "alle Staatsangehörigen",
+      "nur Arbeitgeber / Arbeitgeberinnen"
+    ],
+    "pdf_options": [
+      "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+      "nur Arbeitnehmerinnen/Arbeitnehmer",
+      "alle Staatsangehörigen",
+      "nur Arbeitgeberinnen/Arbeitgeber"
+    ]
+  },
+  {
+    "id": 100,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Lebensversicherung",
+    "chosen_pdf_option": "die Lebensversicherung",
+    "oet_options": [
+      "die Lebensversicherung",
+      "die gesetzliche Rentenversicherung",
+      "die Arbeitslosenversicherung",
+      "die Pflegeversicherung"
+    ],
+    "pdf_options": [
+      "die Lebensversicherung",
+      "die gesetzliche Rentenversicherung",
+      "die Arbeitslosenversicherung",
+      "die Pflegeversicherung"
+    ]
+  },
+  {
+    "id": 101,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Arbeitnehmer und Arbeitnehmerinnen.",
+    "chosen_pdf_option": "Arbeitnehmerinnen und Arbeitnehmer.",
+    "oet_options": [
+      "Jugendlichen.",
+      "Arbeitnehmer und Arbeitnehmerinnen.",
+      "Rentner und Rentnerinnen.",
+      "Arbeitgeber und Arbeitgeberinnen."
+    ],
+    "pdf_options": [
+      "Jugendlichen.",
+      "Arbeitnehmerinnen und Arbeitnehmer.",
+      "Rentnerinnen und Rentner.",
+      "Arbeitgeberinnen und Arbeitgeber."
+    ]
+  },
+  {
+    "id": 102,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Bundesverdienstkreuz",
+    "chosen_pdf_option": "Bundesverdienstkreuz",
+    "oet_options": [
+      "Bundesverdienstkreuz",
+      "Bundesadler",
+      "Vaterländischen Verdienstorden",
+      "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+    ],
+    "pdf_options": [
+      "Bundesverdienstkreuz",
+      "Bundesadler",
+      "Vaterländischen Verdienstorden",
+      "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+    ]
+  },
+  {
+    "id": 103,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+    "chosen_pdf_option": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+    "oet_options": [
+      "der Bundestagsfraktionen von CDU und CSU",
+      "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+      "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+      "der Bundestagsfraktionen von CDU und SPD"
+    ],
+    "pdf_options": [
+      "der Bundestagsfraktionen von CDU und CSU",
+      "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+      "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+      "der Bundestagsfraktionen von CDU und SPD"
+    ]
+  },
+  {
+    "id": 104,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+    "chosen_pdf_option": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+    "oet_options": [
+      "Die Frau ist lange krank und arbeitsunfähig.",
+      "Die Frau kam oft zu spät zur Arbeit.",
+      "Die Frau erledigt private Sachen während der Arbeitszeit.",
+      "Die Frau bekommt ein Kind und ihr Chef weiß das."
+    ],
+    "pdf_options": [
+      "Die Frau ist lange krank und arbeitsunfähig.",
+      "Die Frau kam oft zu spät zur Arbeit.",
+      "Die Frau erledigt private Sachen während der Arbeitszeit.",
+      "Die Frau bekommt ein Kind und ihr Chef weiß das."
+    ]
+  },
+  {
+    "id": 105,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "chosen_pdf_option": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "oet_options": [
+      "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+      "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+      "Sie geben Zwischenergebnisse an die Medien weiter.",
+      "Sie zählen die Stimmen nach dem Ende der Wahl."
+    ],
+    "pdf_options": [
+      "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+      "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+      "Sie geben Zwischenergebnisse an die Medien weiter.",
+      "Sie zählen die Stimmen nach dem Ende der Wahl."
+    ]
+  },
+  {
+    "id": 106,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "chosen_pdf_option": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "oet_options": [
+      "Sie helfen Kindern und alten Menschen beim Wählen.",
+      "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+      "Sie geben Zwischenergebnisse an Journalisten weiter.",
+      "Sie zählen die Stimmen nach dem Ende der Wahl."
+    ],
+    "pdf_options": [
+      "Sie helfen Kindern und alten Menschen beim Wählen.",
+      "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+      "Sie geben Zwischenergebnisse an Journalisten weiter.",
+      "Sie zählen die Stimmen nach dem Ende der Wahl."
+    ]
+  },
+  {
+    "id": 107,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "4 Jahre",
+    "chosen_pdf_option": "4 Jahre",
+    "oet_options": [
+      "2 Jahre",
+      "4 Jahre",
+      "6 Jahre",
+      "8 Jahre"
+    ],
+    "pdf_options": [
+      "2 Jahre",
+      "4 Jahre",
+      "6 Jahre",
+      "8 Jahre"
+    ]
+  },
+  {
+    "id": 108,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [
+      "ambiguous_answer_match"
+    ],
+    "oet_correct": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+    "chosen_pdf_option": "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+    "oet_options": [
+      "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+      "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+      "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+      "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+    ],
+    "pdf_options": [
+      "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+      "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+      "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+      "Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+    ]
+  },
+  {
+    "id": 109,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "alle vier Jahre",
+    "chosen_pdf_option": "alle vier Jahre",
+    "oet_options": [
+      "alle drei Jahre",
+      "alle vier Jahre",
+      "alle fünf Jahre",
+      "alle sechs Jahre"
+    ],
+    "pdf_options": [
+      "alle drei Jahre",
+      "alle vier Jahre",
+      "alle fünf Jahre",
+      "alle sechs Jahre"
+    ]
+  },
+  {
+    "id": 110,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "4 Jahre",
+    "chosen_pdf_option": "4 Jahre",
+    "oet_options": [
+      "2 Jahre",
+      "3 Jahre",
+      "4 Jahre",
+      "5 Jahre"
+    ],
+    "pdf_options": [
+      "2 Jahre",
+      "3 Jahre",
+      "4 Jahre",
+      "5 Jahre"
+    ]
+  },
+  {
+    "id": 111,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der öffentliche Aufruf zur Vernichtung Israels",
+    "chosen_pdf_option": "der öffentliche Aufruf zur Vernichtung Israels",
+    "oet_options": [
+      "die Politik Israels öffentlich kritisieren",
+      "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+      "eine Diskussion über die Politik Israels",
+      "der öffentliche Aufruf zur Vernichtung Israels"
+    ],
+    "pdf_options": [
+      "die Politik Israels öffentlich kritisieren",
+      "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+      "eine Diskussion über die Politik Israels",
+      "der öffentliche Aufruf zur Vernichtung Israels"
+    ]
+  },
+  {
+    "id": 112,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "geheim.",
+    "chosen_pdf_option": "geheim.",
+    "oet_options": [
+      "speziell.",
+      "geheim.",
+      "berufsbezogen.",
+      "geschlechtsabhängig."
+    ],
+    "pdf_options": [
+      "speziell.",
+      "geheim.",
+      "berufsbezogen.",
+      "geschlechtsabhängig."
+    ]
+  },
+  {
+    "id": 113,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die meisten Stimmen bekommt.",
+    "chosen_pdf_option": "die meisten Stimmen bekommt.",
+    "oet_options": [
+      "die meisten Stimmen bekommt.",
+      "die meisten Männer mehrheitlich gewählt haben.",
+      "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
+      "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat."
+    ],
+    "pdf_options": [
+      "die meisten Stimmen bekommt.",
+      "die meisten Männer mehrheitlich gewählt haben.",
+      "die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.",
+      "die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat."
+    ]
+  },
+  {
+    "id": 114,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "ein Recht.",
+    "chosen_pdf_option": "ein Recht.",
+    "oet_options": [
+      "eine Pflicht.",
+      "ein Recht.",
+      "ein Zwang.",
+      "eine Last."
+    ],
+    "pdf_options": [
+      "eine Pflicht.",
+      "ein Recht.",
+      "ein Zwang.",
+      "eine Last."
+    ]
+  },
+  {
+    "id": 115,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Man kann wählen.",
+    "chosen_pdf_option": "Man kann wählen.",
+    "oet_options": [
+      "Man kann gewählt werden.",
+      "Man muss wählen gehen.",
+      "Man kann wählen.",
+      "Man muss zur Auszählung der Stimmen gehen."
+    ],
+    "pdf_options": [
+      "Man kann gewählt werden.",
+      "Man muss wählen gehen.",
+      "Man kann wählen.",
+      "Man muss zur Auszählung der Stimmen gehen."
+    ]
+  },
+  {
+    "id": 116,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "aktives Wahlrecht.",
+    "chosen_pdf_option": "aktives Wahlrecht.",
+    "oet_options": [
+      "aktive Wahlkampagne.",
+      "aktives Wahlverfahren.",
+      "aktiver Wahlkampf.",
+      "aktives Wahlrecht."
+    ],
+    "pdf_options": [
+      "aktive Wahlkampagne.",
+      "aktives Wahlverfahren.",
+      "aktiver Wahlkampf.",
+      "aktives Wahlrecht."
+    ]
+  },
+  {
+    "id": 117,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "5%",
+    "chosen_pdf_option": "5%",
+    "oet_options": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ],
+    "pdf_options": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ]
+  },
+  {
+    "id": 118,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "alle Menschen",
+    "chosen_pdf_option": "alle Menschen",
+    "oet_options": [
+      "nur Deutsche",
+      "nur Israelis",
+      "nur religiöse Menschen",
+      "alle Menschen"
+    ],
+    "pdf_options": [
+      "nur Deutsche",
+      "nur Israelis",
+      "nur religiöse Menschen",
+      "alle Menschen"
+    ]
+  },
+  {
+    "id": 119,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+    "chosen_pdf_option": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+    "oet_options": [
+      "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.",
+      "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+      "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+      "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+    ],
+    "pdf_options": [
+      "Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.",
+      "Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.",
+      "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+      "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+    ]
+  },
+  {
+    "id": 120,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Mehrheits- und Verhältniswahlrecht.",
+    "chosen_pdf_option": "Mehrheits- und Verhältniswahlrecht.",
+    "oet_options": [
+      "Zensuswahlrecht.",
+      "Dreiklassenwahlrecht.",
+      "Mehrheits- und Verhältniswahlrecht.",
+      "allgemeines Männerwahlrecht."
+    ],
+    "pdf_options": [
+      "Zensuswahlrecht.",
+      "Dreiklassenwahlrecht.",
+      "Mehrheits- und Verhältniswahlrecht.",
+      "allgemeines Männerwahlrecht."
+    ]
+  },
+  {
+    "id": 121,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "5%-Hürde.",
+    "chosen_pdf_option": "5%-Hürde.",
+    "oet_options": [
+      "5%-Hürde.",
+      "Zulassungsgrenze.",
+      "Basiswert.",
+      "Richtlinie."
+    ],
+    "pdf_options": [
+      "5%-Hürde.",
+      "Zulassungsgrenze.",
+      "Basiswert.",
+      "Richtlinie."
+    ]
+  },
+  {
+    "id": 122,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "frei, gleich, geheim.",
+    "chosen_pdf_option": "frei, gleich, geheim.",
+    "oet_options": [
+      "frei, gleich, geheim.",
+      "offen, sicher, frei.",
+      "geschlossen, gleich, sicher.",
+      "sicher, offen, freiwillig."
+    ],
+    "pdf_options": [
+      "frei, gleich, geheim.",
+      "offen, sicher, frei.",
+      "geschlossen, gleich, sicher.",
+      "sicher, offen, freiwillig."
+    ]
+  },
+  {
+    "id": 123,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+    "chosen_pdf_option": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+    "oet_options": [
+      "Abstimmungsregelung im Bundestag für kleine Parteien",
+      "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+      "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+      "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+    ],
+    "pdf_options": [
+      "Abstimmungsregelung im Bundestag für kleine Parteien",
+      "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+      "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+      "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+    ]
+  },
+  {
+    "id": 124,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "des Parlaments für Deutschland.",
+    "chosen_pdf_option": "des Parlaments für Deutschland.",
+    "oet_options": [
+      "des Bundeskanzlers / der Bundeskanzlerin.",
+      "der Parlamente der Länder.",
+      "des Parlaments für Deutschland.",
+      "des Bundespräsidenten / der Bundespräsidentin."
+    ],
+    "pdf_options": [
+      "der Bundeskanzlerin/des Bundeskanzlers.",
+      "der Parlamente der Länder.",
+      "des Parlaments für Deutschland.",
+      "der Bundespräsidentin/des Bundespräsidenten."
+    ]
+  },
+  {
+    "id": 125,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+    "chosen_pdf_option": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+    "oet_options": [
+      "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
+      "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+      "im Land bestehende Gesetze beizubehalten.",
+      "den Armen mehr Macht zu geben."
+    ],
+    "pdf_options": [
+      "die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.",
+      "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+      "im Land bestehende Gesetze beizubehalten.",
+      "den Armen mehr Macht zu geben."
+    ]
+  },
+  {
+    "id": 126,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "eine Wahlbenachrichtigung von der Gemeinde",
+    "chosen_pdf_option": "eine Wahlbenachrichtigung von der Gemeinde",
+    "oet_options": [
+      "eine Wahlbenachrichtigung von der Gemeinde",
+      "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin",
+      "eine Benachrichtigung von der Bundesversammlung",
+      "eine Benachrichtigung vom Pfarramt"
+    ],
+    "pdf_options": [
+      "eine Wahlbenachrichtigung von der Gemeinde",
+      "eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten",
+      "eine Benachrichtigung von der Bundesversammlung",
+      "eine Benachrichtigung vom Pfarramt"
+    ]
+  },
+  {
+    "id": 127,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "viele kleine Parteien die Regierungsbildung erschweren.",
+    "chosen_pdf_option": "viele kleine Parteien die Regierungsbildung erschweren.",
+    "oet_options": [
+      "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+      "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.",
+      "viele kleine Parteien die Regierungsbildung erschweren.",
+      "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
+    ],
+    "pdf_options": [
+      "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+      "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.",
+      "viele kleine Parteien die Regierungsbildung erschweren.",
+      "die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen."
+    ]
+  },
+  {
+    "id": 128,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Abgeordnete.",
+    "chosen_pdf_option": "Abgeordnete.",
+    "oet_options": [
+      "Abgeordnete.",
+      "Kanzler / Kanzlerinnen.",
+      "Botschafter / Botschafterinnen.",
+      "Ministerpräsidenten / Ministerpräsidentinnen."
+    ],
+    "pdf_options": [
+      "Abgeordnete.",
+      "Kanzlerinnen/Kanzler.",
+      "Botschafterinnen/Botschafter.",
+      "Ministerpräsidentinnen/Ministerpräsidenten."
+    ]
+  },
+  {
+    "id": 129,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Bundestag.",
+    "chosen_pdf_option": "der Bundestag.",
+    "oet_options": [
+      "der Bundeskanzler / die Bundeskanzlerin.",
+      "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.",
+      "der Bundestag.",
+      "der Bundespräsident / die Bundespräsidentin."
+    ],
+    "pdf_options": [
+      "die Bundeskanzlerin/der Bundeskanzler.",
+      "die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.",
+      "der Bundestag.",
+      "die Bundespräsidentin/der Bundespräsident."
+    ]
+  },
+  {
+    "id": 130,
+    "match_kind": "numeric",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1",
+    "chosen_pdf_option": "1",
+    "oet_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "pdf_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": 131,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Oberhaupt einer Gemeinde.",
+    "chosen_pdf_option": "das Oberhaupt einer Gemeinde.",
+    "oet_options": [
+      "der Leiter / die Leiterin einer Schule.",
+      "der Chef / die Chefin einer Bank.",
+      "das Oberhaupt einer Gemeinde.",
+      "der / die Vorsitzende einer Partei."
+    ],
+    "pdf_options": [
+      "die Leiterin/der Leiter einer Schule.",
+      "die Chefin/der Chef einer Bank.",
+      "das Oberhaupt einer Gemeinde.",
+      "die/der Vorsitzende einer Partei."
+    ]
+  },
+  {
+    "id": 132,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+    "chosen_pdf_option": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+    "oet_options": [
+      "Sie arbeiten als Soldaten / Soldatinnen.",
+      "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+      "Sie arbeiten in der Bundesregierung.",
+      "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+    ],
+    "pdf_options": [
+      "Sie arbeiten als Soldatinnen/Soldaten.",
+      "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+      "Sie arbeiten in der Bundesregierung.",
+      "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+    ]
+  },
+  {
+    "id": 133,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Man kann durch Briefwahl seine Stimme abgeben.",
+    "chosen_pdf_option": "Man kann durch Briefwahl seine Stimme abgeben.",
+    "oet_options": [
+      "Der Ehemann wählt für seine Frau mit.",
+      "Man kann durch Briefwahl seine Stimme abgeben.",
+      "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+      "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+    ],
+    "pdf_options": [
+      "Der Ehemann wählt für seine Frau mit.",
+      "Man kann durch Briefwahl seine Stimme abgeben.",
+      "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+      "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+    ]
+  },
+  {
+    "id": 134,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+    "chosen_pdf_option": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+    "oet_options": [
+      "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+      "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+      "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+      "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+    ],
+    "pdf_options": [
+      "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+      "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+      "Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.",
+      "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+    ]
+  },
+  {
+    "id": 135,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Arbeitnehmer und Arbeitnehmerinnen",
+    "chosen_pdf_option": "Arbeitnehmerinnen und Arbeitnehmer",
+    "oet_options": [
+      "große Unternehmen",
+      "kleine Unternehmen",
+      "Selbständige",
+      "Arbeitnehmer und Arbeitnehmerinnen"
+    ],
+    "pdf_options": [
+      "große Unternehmen",
+      "kleine Unternehmen",
+      "Selbstständige",
+      "Arbeitnehmerinnen und Arbeitnehmer"
+    ]
+  },
+  {
+    "id": 136,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+    "chosen_pdf_option": "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+    "oet_options": [
+      "falscher Nebenkostenabrechnung.",
+      "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+      "Problemen mit den Nachbarn / Nachbarinnen.",
+      "Schwierigkeiten nach einem Verkehrsunfall."
+    ],
+    "pdf_options": [
+      "falscher Nebenkostenabrechnung.",
+      "ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.",
+      "Problemen mit den Nachbarinnen/Nachbarn.",
+      "Schwierigkeiten nach einem Verkehrsunfall."
+    ]
+  },
+  {
+    "id": 137,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Arbeitsgericht",
+    "chosen_pdf_option": "das Arbeitsgericht",
+    "oet_options": [
+      "das Familiengericht",
+      "das Strafgericht",
+      "das Arbeitsgericht",
+      "das Amtsgericht"
+    ],
+    "pdf_options": [
+      "das Familiengericht",
+      "das Strafgericht",
+      "das Arbeitsgericht",
+      "das Amtsgericht"
+    ]
+  },
+  {
+    "id": 138,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Kündigungsschutzklage erheben",
+    "chosen_pdf_option": "Kündigungsschutzklage erheben",
+    "oet_options": [
+      "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
+      "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen",
+      "Kündigungsschutzklage erheben",
+      "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
+    ],
+    "pdf_options": [
+      "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+      "ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen",
+      "Kündigungsschutzklage erheben",
+      "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen"
+    ]
+  },
+  {
+    "id": 139,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "eine Straftat begangen hat und angeklagt wird.",
+    "chosen_pdf_option": "eine Straftat begangen hat und angeklagt wird.",
+    "oet_options": [
+      "zu einer anderen Religion übertritt.",
+      "eine Straftat begangen hat und angeklagt wird.",
+      "eine andere Meinung als die der Regierung vertritt.",
+      "sein Auto falsch geparkt hat und es abgeschleppt wird."
+    ],
+    "pdf_options": [
+      "zu einer anderen Religion übertritt.",
+      "eine Straftat begangen hat und angeklagt wird.",
+      "eine andere Meinung als die der Regierung vertritt.",
+      "sein Auto falsch geparkt hat und es abgeschleppt wird."
+    ]
+  },
+  {
+    "id": 140,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+    "chosen_pdf_option": "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+    "oet_options": [
+      "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+      "gibt Bürgern / Bürgerinnen rechtlichen Rat.",
+      "stellt Urkunden aus.",
+      "verteidigt den Angeklagten / die Angeklagte."
+    ],
+    "pdf_options": [
+      "entscheidet mit Richterinnen/Richtern über Schuld und Strafe.",
+      "gibt Bürgerinnen/Bürgern rechtlichen Rat.",
+      "stellt Urkunden aus.",
+      "verteidigt die Angeklagte/den Angeklagten."
+    ]
+  },
+  {
+    "id": 141,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "ein Rechtsanwalt / eine Rechtsanwältin",
+    "chosen_pdf_option": "eine Rechtsanwältin/ein Rechtsanwalt",
+    "oet_options": [
+      "ein Rechtsanwalt / eine Rechtsanwältin",
+      "ein Richter / eine Richterin",
+      "ein Schöffe / eine Schöffin",
+      "ein Staatsanwalt / eine Staatsanwältin"
+    ],
+    "pdf_options": [
+      "eine Rechtsanwältin/ein Rechtsanwalt",
+      "eine Richterin/ein Richter",
+      "eine Schöffin/ein Schöffe",
+      "eine Staatsanwältin/ein Staatsanwalt"
+    ]
+  },
+  {
+    "id": 142,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "arbeitet an einem Gericht und spricht Urteile.",
+    "chosen_pdf_option": "arbeitet an einem Gericht und spricht Urteile.",
+    "oet_options": [
+      "vertritt Bürger und Bürgerinnen vor einem Gericht.",
+      "arbeitet an einem Gericht und spricht Urteile.",
+      "ändert Gesetze.",
+      "betreut Jugendliche vor Gericht."
+    ],
+    "pdf_options": [
+      "vertritt Bürgerinnen und Bürger vor einem Gericht.",
+      "arbeitet an einem Gericht und spricht Urteile.",
+      "ändert Gesetze.",
+      "betreut Jugendliche vor Gericht."
+    ]
+  },
+  {
+    "id": 143,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Judikative.",
+    "chosen_pdf_option": "Judikative.",
+    "oet_options": [
+      "Judikative.",
+      "Exekutive.",
+      "Operative.",
+      "Legislative."
+    ],
+    "pdf_options": [
+      "Judikative.",
+      "Exekutive.",
+      "Operative.",
+      "Legislative."
+    ]
+  },
+  {
+    "id": 144,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "rechtsprechenden Gewalt.",
+    "chosen_pdf_option": "rechtsprechenden Gewalt.",
+    "oet_options": [
+      "vollziehenden Gewalt.",
+      "rechtsprechenden Gewalt.",
+      "planenden Gewalt.",
+      "gesetzgebenden Gewalt."
+    ],
+    "pdf_options": [
+      "vollziehenden Gewalt.",
+      "rechtsprechenden Gewalt.",
+      "planenden Gewalt.",
+      "gesetzgebenden Gewalt."
+    ]
+  },
+  {
+    "id": 145,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Judikative",
+    "chosen_pdf_option": "Judikative",
+    "oet_options": [
+      "Judikative",
+      "Exekutive",
+      "Presse",
+      "Legislative"
+    ],
+    "pdf_options": [
+      "Judikative",
+      "Exekutive",
+      "Presse",
+      "Legislative"
+    ]
+  },
+  {
+    "id": 146,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Prozess",
+    "chosen_pdf_option": "Prozess",
+    "oet_options": [
+      "Programm",
+      "Prozedur",
+      "Protokoll",
+      "Prozess"
+    ],
+    "pdf_options": [
+      "Programm",
+      "Prozedur",
+      "Protokoll",
+      "Prozess"
+    ]
+  },
+  {
+    "id": 147,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Recht sprechen",
+    "chosen_pdf_option": "Recht sprechen",
+    "oet_options": [
+      "Deutschland regieren",
+      "Recht sprechen",
+      "Pläne erstellen",
+      "Gesetze erlassen"
+    ],
+    "pdf_options": [
+      "Deutschland regieren",
+      "Recht sprechen",
+      "Pläne erstellen",
+      "Gesetze erlassen"
+    ]
+  },
+  {
+    "id": 148,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Einhaltung von Gesetzen zu überwachen",
+    "chosen_pdf_option": "die Einhaltung von Gesetzen zu überwachen",
+    "oet_options": [
+      "das Land zu verteidigen",
+      "die Bürgerinnen und Bürger abzuhören",
+      "die Gesetze zu beschließen",
+      "die Einhaltung von Gesetzen zu überwachen"
+    ],
+    "pdf_options": [
+      "das Land zu verteidigen",
+      "die Bürgerinnen und Bürger abzuhören",
+      "die Gesetze zu beschließen",
+      "die Einhaltung von Gesetzen zu überwachen"
+    ]
+  },
+  {
+    "id": 149,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "den Holocaust leugnen",
+    "chosen_pdf_option": "den Holocaust leugnen",
+    "oet_options": [
+      "ein jüdisches Fest besuchen",
+      "die israelische Regierung kritisieren",
+      "den Holocaust leugnen",
+      "gegen Juden Fußball spielen"
+    ],
+    "pdf_options": [
+      "ein jüdisches Fest besuchen",
+      "die israelische Regierung kritisieren",
+      "den Holocaust leugnen",
+      "gegen Juden Fußball spielen."
+    ]
+  },
+  {
+    "id": 150,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+    "chosen_pdf_option": "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+    "oet_options": [
+      "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+      "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+      "ein Mitglied eines Gemeinderats.",
+      "eine Person, die Jura studiert hat."
+    ],
+    "pdf_options": [
+      "die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.",
+      "eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.",
+      "ein Mitglied eines Gemeinderats.",
+      "eine Person, die Jura studiert hat."
+    ]
+  },
+  {
+    "id": 151,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die DDR",
+    "chosen_pdf_option": "die DDR",
+    "oet_options": [
+      "Großbritannien",
+      "die DDR",
+      "die Bundesrepublik Deutschland",
+      "die USA"
+    ],
+    "pdf_options": [
+      "Großbritannien",
+      "die DDR",
+      "die Bundesrepublik Deutschland",
+      "die USA"
+    ]
+  },
+  {
+    "id": 152,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1933 bis 1945",
+    "chosen_pdf_option": "1933 bis 1945",
+    "oet_options": [
+      "1918 bis 1923",
+      "1932 bis 1950",
+      "1933 bis 1945",
+      "1945 bis 1989"
+    ],
+    "pdf_options": [
+      "1918 bis 1923",
+      "1932 bis 1950",
+      "1933 bis 1945",
+      "1945 bis 1989"
+    ]
+  },
+  {
+    "id": 153,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ende des Zweiten Weltkriegs in Europa",
+    "chosen_pdf_option": "Ende des Zweiten Weltkriegs in Europa",
+    "oet_options": [
+      "Tod Adolf Hitlers",
+      "Beginn des Berliner Mauerbaus",
+      "Wahl von Konrad Adenauer zum Bundeskanzler",
+      "Ende des Zweiten Weltkriegs in Europa"
+    ],
+    "pdf_options": [
+      "Tod Adolf Hitlers",
+      "Beginn des Berliner Mauerbaus",
+      "Wahl von Konrad Adenauer zum Bundeskanzler",
+      "Ende des Zweiten Weltkriegs in Europa"
+    ]
+  },
+  {
+    "id": 154,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1945",
+    "chosen_pdf_option": "1945",
+    "oet_options": [
+      "1933",
+      "1945",
+      "1949",
+      "1961"
+    ],
+    "pdf_options": [
+      "1933",
+      "1945",
+      "1949",
+      "1961"
+    ]
+  },
+  {
+    "id": 155,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1933 bis 1945",
+    "chosen_pdf_option": "1933 bis 1945",
+    "oet_options": [
+      "1888 bis 1918",
+      "1921 bis 1934",
+      "1933 bis 1945",
+      "1949 bis 1963"
+    ],
+    "pdf_options": [
+      "1888 bis 1918",
+      "1921 bis 1934",
+      "1933 bis 1945",
+      "1949 bis 1963"
+    ]
+  },
+  {
+    "id": 156,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1933",
+    "chosen_pdf_option": "1933",
+    "oet_options": [
+      "1923",
+      "1927",
+      "1933",
+      "1936"
+    ],
+    "pdf_options": [
+      "1923",
+      "1927",
+      "1933",
+      "1936"
+    ]
+  },
+  {
+    "id": 157,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "eine Diktatur.",
+    "chosen_pdf_option": "eine Diktatur.",
+    "oet_options": [
+      "eine Diktatur.",
+      "einen demokratischen Staat.",
+      "eine Monarchie.",
+      "ein Fürstentum."
+    ],
+    "pdf_options": [
+      "eine Diktatur.",
+      "einen demokratischen Staat.",
+      "eine Monarchie.",
+      "ein Fürstentum."
+    ]
+  },
+  {
+    "id": 158,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Diktatur.",
+    "chosen_pdf_option": "Diktatur.",
+    "oet_options": [
+      "Diktatur.",
+      "Demokratie.",
+      "Monarchie.",
+      "Räterepublik."
+    ],
+    "pdf_options": [
+      "Diktatur.",
+      "Demokratie.",
+      "Monarchie.",
+      "Räterepublik."
+    ]
+  },
+  {
+    "id": 159,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "freie Wahlen",
+    "chosen_pdf_option": "freie Wahlen",
+    "oet_options": [
+      "freie Wahlen",
+      "Pressezensur",
+      "willkürliche Verhaftungen",
+      "Verfolgung der Juden"
+    ],
+    "pdf_options": [
+      "freie Wahlen",
+      "Pressezensur",
+      "willkürliche Verhaftungen",
+      "Verfolgung von Juden"
+    ]
+  },
+  {
+    "id": 160,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Zweite Weltkrieg",
+    "chosen_pdf_option": "der Zweite Weltkrieg",
+    "oet_options": [
+      "der Erste Weltkrieg",
+      "der Zweite Weltkrieg",
+      "der Vietnamkrieg",
+      "der Golfkrieg"
+    ],
+    "pdf_options": [
+      "der Erste Weltkrieg",
+      "der Zweite Weltkrieg",
+      "der Vietnamkrieg",
+      "der Golfkrieg"
+    ]
+  },
+  {
+    "id": 161,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "des staatlichen Rassismus",
+    "chosen_pdf_option": "des staatlichen Rassismus",
+    "oet_options": [
+      "des staatlichen Rassismus",
+      "der Meinungsfreiheit",
+      "der allgemeinen Religionsfreiheit",
+      "der Entwicklung der Demokratie"
+    ],
+    "pdf_options": [
+      "des staatlichen Rassismus",
+      "der Meinungsfreiheit",
+      "der allgemeinen Religionsfreiheit",
+      "der Entwicklung der Demokratie"
+    ]
+  },
+  {
+    "id": 162,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Attentat auf Hitler am 20. Juli 1944.",
+    "chosen_pdf_option": "das Attentat auf Hitler am 20. Juli 1944.",
+    "oet_options": [
+      "eine Goldmedaille bei den Olympischen Spielen 1936.",
+      "den Bau des Reichstagsgebäudes.",
+      "den Aufbau der Wehrmacht.",
+      "das Attentat auf Hitler am 20. Juli 1944."
+    ],
+    "pdf_options": [
+      "eine Goldmedaille bei den Olympischen Spielen 1936.",
+      "den Bau des Reichstagsgebäudes.",
+      "den Aufbau der Wehrmacht.",
+      "das Attentat auf Hitler am 20. Juli 1944."
+    ]
+  },
+  {
+    "id": 163,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1938",
+    "chosen_pdf_option": "1938",
+    "oet_options": [
+      "1925",
+      "1930",
+      "1938",
+      "1945"
+    ],
+    "pdf_options": [
+      "1925",
+      "1930",
+      "1938",
+      "1945"
+    ]
+  },
+  {
+    "id": 164,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+    "chosen_pdf_option": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+    "oet_options": [
+      "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+      "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+      "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+      "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+    ],
+    "pdf_options": [
+      "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+      "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+      "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+      "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+    ]
+  },
+  {
+    "id": 165,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Konrad Adenauer",
+    "chosen_pdf_option": "Konrad Adenauer",
+    "oet_options": [
+      "Konrad Adenauer",
+      "Kurt Georg Kiesinger",
+      "Helmut Schmidt",
+      "Willy Brandt"
+    ],
+    "pdf_options": [
+      "Konrad Adenauer",
+      "Kurt Georg Kiesinger",
+      "Helmut Schmidt",
+      "Willy Brandt"
+    ]
+  },
+  {
+    "id": 166,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "bei den Montagsdemonstrationen 1989 in der DDR",
+    "chosen_pdf_option": "bei den Montagsdemonstrationen 1989 in der DDR",
+    "oet_options": [
+      "beim Arbeiteraufstand 1953 in der DDR",
+      "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+      "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+      "bei den Montagsdemonstrationen 1989 in der DDR"
+    ],
+    "pdf_options": [
+      "beim Arbeiteraufstand 1953 in der DDR",
+      "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+      "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+      "bei den Montagsdemonstrationen 1989 in der DDR"
+    ]
+  },
+  {
+    "id": 167,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "USA, Sowjetunion, Großbritannien, Frankreich",
+    "chosen_pdf_option": "USA, Sowjetunion, Großbritannien, Frankreich",
+    "oet_options": [
+      "Sowjetunion, Großbritannien, Polen, Schweden",
+      "Frankreich, Sowjetunion, Italien, Japan",
+      "USA, Sowjetunion, Spanien, Portugal",
+      "USA, Sowjetunion, Großbritannien, Frankreich"
+    ],
+    "pdf_options": [
+      "Sowjetunion, Großbritannien, Polen, Schweden",
+      "Frankreich, Sowjetunion, Italien, Japan",
+      "USA, Sowjetunion, Spanien, Portugal",
+      "USA, Sowjetunion, Großbritannien, Frankreich"
+    ]
+  },
+  {
+    "id": 168,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Japan",
+    "chosen_pdf_option": "Japan",
+    "oet_options": [
+      "USA",
+      "Sowjetunion",
+      "Frankreich",
+      "Japan"
+    ],
+    "pdf_options": [
+      "USA",
+      "Sowjetunion",
+      "Frankreich",
+      "Japan"
+    ]
+  },
+  {
+    "id": 169,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1949",
+    "chosen_pdf_option": "1949",
+    "oet_options": [
+      "1939",
+      "1945",
+      "1949",
+      "1951"
+    ],
+    "pdf_options": [
+      "1939",
+      "1945",
+      "1949",
+      "1951"
+    ]
+  },
+  {
+    "id": 170,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Verbot von Parteien",
+    "chosen_pdf_option": "das Verbot von Parteien",
+    "oet_options": [
+      "das Verbot von Parteien",
+      "das Recht zur freien Entfaltung der Persönlichkeit",
+      "Pressefreiheit",
+      "den Schutz der Menschenwürde"
+    ],
+    "pdf_options": [
+      "das Verbot von Parteien",
+      "das Recht zur freien Entfaltung der Persönlichkeit",
+      "Pressefreiheit",
+      "den Schutz der Menschenwürde"
+    ]
+  },
+  {
+    "id": 171,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+    "chosen_pdf_option": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+    "oet_options": [
+      "steuert sich allein nach Angebot und Nachfrage.",
+      "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+      "richtet sich nach der Nachfrage im Ausland.",
+      "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+    ],
+    "pdf_options": [
+      "steuert sich allein nach Angebot und Nachfrage.",
+      "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+      "richtet sich nach der Nachfrage im Ausland.",
+      "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+    ]
+  },
+  {
+    "id": 172,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "sowjetischen Besatzungszone",
+    "chosen_pdf_option": "sowjetischen Besatzungszone",
+    "oet_options": [
+      "amerikanischen Besatzungszone",
+      "französischen Besatzungszone",
+      "britischen Besatzungszone",
+      "sowjetischen Besatzungszone"
+    ],
+    "pdf_options": [
+      "amerikanischen Besatzungszone",
+      "französischen Besatzungszone",
+      "britischen Besatzungszone",
+      "sowjetischen Besatzungszone"
+    ]
+  },
+  {
+    "id": 173,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Europäischen Union (EU).",
+    "chosen_pdf_option": "der Europäischen Union (EU).",
+    "oet_options": [
+      "des Nordatlantikpakts (NATO).",
+      "der Vereinten Nationen (VN).",
+      "der Europäischen Union (EU).",
+      "des Warschauer Pakts."
+    ],
+    "pdf_options": [
+      "des Nordatlantikpakts (NATO).",
+      "der Vereinten Nationen (VN).",
+      "der Europäischen Union (EU).",
+      "des Warschauer Pakts."
+    ]
+  },
+  {
+    "id": 174,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1949",
+    "chosen_pdf_option": "1949",
+    "oet_options": [
+      "1947",
+      "1949",
+      "1953",
+      "1956"
+    ],
+    "pdf_options": [
+      "1947",
+      "1949",
+      "1953",
+      "1956"
+    ]
+  },
+  {
+    "id": 175,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "4",
+    "chosen_pdf_option": "4",
+    "oet_options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "pdf_options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 176,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+    "chosen_pdf_option": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+    "oet_options": [
+      "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+      "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+    ],
+    "pdf_options": [
+      "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+      "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+    ]
+  },
+  {
+    "id": 177,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Berlin",
+    "chosen_pdf_option": "Berlin",
+    "oet_options": [
+      "München",
+      "Berlin",
+      "Dresden",
+      "Frankfurt/Oder"
+    ],
+    "pdf_options": [
+      "München",
+      "Berlin",
+      "Dresden",
+      "Frankfurt/Oder"
+    ]
+  },
+  {
+    "id": 178,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
+    "chosen_pdf_option": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
+    "oet_options": [
+      "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+      "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
+      "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+      "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+    ],
+    "pdf_options": [
+      "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+      "Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.",
+      "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+      "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+    ]
+  },
+  {
+    "id": 179,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "durch die bedingungslose Kapitulation Deutschlands",
+    "chosen_pdf_option": "durch die bedingungslose Kapitulation Deutschlands",
+    "oet_options": [
+      "mit dem Tod Adolf Hitlers",
+      "durch die bedingungslose Kapitulation Deutschlands",
+      "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+      "durch eine Revolution in Deutschland"
+    ],
+    "pdf_options": [
+      "mit dem Tod Adolf Hitlers",
+      "durch die bedingungslose Kapitulation Deutschlands",
+      "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+      "durch eine Revolution in Deutschland"
+    ]
+  },
+  {
+    "id": 180,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Konrad Adenauer.",
+    "chosen_pdf_option": "Konrad Adenauer.",
+    "oet_options": [
+      "Ludwig Erhard.",
+      "Willy Brandt.",
+      "Konrad Adenauer.",
+      "Gerhard Schröder."
+    ],
+    "pdf_options": [
+      "Ludwig Erhard.",
+      "Willy Brandt.",
+      "Konrad Adenauer.",
+      "Gerhard Schröder."
+    ]
+  },
+  {
+    "id": 181,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Er bat Polen und die polnischen Juden um Vergebung.",
+    "chosen_pdf_option": "Er bat Polen und die polnischen Juden um Vergebung.",
+    "oet_options": [
+      "Er hat sich den ehemaligen Alliierten unterworfen.",
+      "Er bat Polen und die polnischen Juden um Vergebung.",
+      "Er zeigte seine Demut vor dem Warschauer Pakt.",
+      "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+    ],
+    "pdf_options": [
+      "Er hat sich den ehemaligen Alliierten unterworfen.",
+      "Er bat Polen und die polnischen Juden um Vergebung.",
+      "Er zeigte seine Demut vor dem Warschauer Pakt.",
+      "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+    ]
+  },
+  {
+    "id": 182,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Synagoge",
+    "chosen_pdf_option": "Synagoge",
+    "oet_options": [
+      "Basilika",
+      "Moschee",
+      "Synagoge",
+      "Kirche"
+    ],
+    "pdf_options": [
+      "Basilika",
+      "Moschee",
+      "Synagoge",
+      "Kirche"
+    ]
+  },
+  {
+    "id": 183,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "50er Jahre",
+    "chosen_pdf_option": "50er Jahre",
+    "oet_options": [
+      "40er Jahre",
+      "50er Jahre",
+      "70er Jahre",
+      "80er Jahre"
+    ],
+    "pdf_options": [
+      "40er Jahre",
+      "50er Jahre",
+      "70er Jahre",
+      "80er Jahre"
+    ]
+  },
+  {
+    "id": 184,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "eine Resolution der Vereinten Nationen",
+    "chosen_pdf_option": "eine Resolution der Vereinten Nationen",
+    "oet_options": [
+      "eine Resolution der Vereinten Nationen",
+      "ein Beschluss des Zionistenkongresses",
+      "ein Vorschlag der Bundesregierung",
+      "ein Vorschlag der UdSSR"
+    ],
+    "pdf_options": [
+      "eine Resolution der Vereinten Nationen",
+      "ein Beschluss des Zionistenkongresses",
+      "ein Vorschlag der Bundesregierung",
+      "ein Vorschlag der UdSSR"
+    ]
+  },
+  {
+    "id": 185,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "des Warschauer Pakts gegen den Westen",
+    "chosen_pdf_option": "des Warschauer Pakts gegen den Westen",
+    "oet_options": [
+      "des Warschauer Pakts gegen den Westen",
+      "Norddeutschlands gegen Süddeutschland",
+      "Nazi-Deutschlands gegen die Alliierten",
+      "Europas gegen die USA"
+    ],
+    "pdf_options": [
+      "des Warschauer Pakts gegen den Westen",
+      "Norddeutschlands gegen Süddeutschland",
+      "Nazi-Deutschlands gegen die Alliierten",
+      "Europas gegen die USA"
+    ]
+  },
+  {
+    "id": 186,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "17. Juni",
+    "chosen_pdf_option": "17. Juni",
+    "oet_options": [
+      "1. Mai",
+      "17. Juni",
+      "20. Juli",
+      "9. November"
+    ],
+    "pdf_options": [
+      "1. Mai",
+      "17. Juni",
+      "20. Juli",
+      "9. November"
+    ]
+  },
+  {
+    "id": 187,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "DDR",
+    "chosen_pdf_option": "DDR",
+    "oet_options": [
+      "Preußen",
+      "Bundesrepublik Deutschland",
+      "\"Drittes Reich\"",
+      "DDR"
+    ],
+    "pdf_options": [
+      "Preußen",
+      "Bundesrepublik Deutschland",
+      "\"Drittes Reich\"",
+      "DDR"
+    ]
+  },
+  {
+    "id": 188,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1961",
+    "chosen_pdf_option": "1961",
+    "oet_options": [
+      "1953",
+      "1956",
+      "1959",
+      "1961"
+    ],
+    "pdf_options": [
+      "1953",
+      "1956",
+      "1959",
+      "1961"
+    ]
+  },
+  {
+    "id": 189,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1961",
+    "chosen_pdf_option": "1961",
+    "oet_options": [
+      "1919",
+      "1933",
+      "1961",
+      "1990"
+    ],
+    "pdf_options": [
+      "1919",
+      "1933",
+      "1961",
+      "1990"
+    ]
+  },
+  {
+    "id": 190,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Deutsche Demokratische Republik",
+    "chosen_pdf_option": "Deutsche Demokratische Republik",
+    "oet_options": [
+      "Dritter Deutscher Rundfunk",
+      "Die Deutsche Republik",
+      "Dritte Deutsche Republik",
+      "Deutsche Demokratische Republik"
+    ],
+    "pdf_options": [
+      "Dritter Deutscher Rundfunk",
+      "Die Deutsche Republik",
+      "Dritte Deutsche Republik",
+      "Deutsche Demokratische Republik"
+    ]
+  },
+  {
+    "id": 191,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1989",
+    "chosen_pdf_option": "1989",
+    "oet_options": [
+      "1987",
+      "1989",
+      "1992",
+      "1995"
+    ],
+    "pdf_options": [
+      "1987",
+      "1989",
+      "1992",
+      "1995"
+    ]
+  },
+  {
+    "id": 192,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Brandenburg",
+    "chosen_pdf_option": "Brandenburg",
+    "oet_options": [
+      "Brandenburg",
+      "Bayern",
+      "Saarland",
+      "Hessen"
+    ],
+    "pdf_options": [
+      "Brandenburg",
+      "Bayern",
+      "Saarland",
+      "Hessen"
+    ]
+  },
+  {
+    "id": 193,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "durch eine Mauer geteilt.",
+    "chosen_pdf_option": "durch eine Mauer geteilt.",
+    "oet_options": [
+      "ohne Bürgermeister.",
+      "ein eigener Staat.",
+      "durch eine Mauer geteilt.",
+      "nur mit dem Flugzeug erreichbar."
+    ],
+    "pdf_options": [
+      "ohne Bürgermeister.",
+      "ein eigener Staat.",
+      "durch eine Mauer geteilt.",
+      "nur mit dem Flugzeug erreichbar."
+    ]
+  },
+  {
+    "id": 194,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Einheit.",
+    "chosen_pdf_option": "Einheit.",
+    "oet_options": [
+      "Einheit.",
+      "Nation.",
+      "Bundesländer.",
+      "Städte."
+    ],
+    "pdf_options": [
+      "Einheit.",
+      "Nation.",
+      "Bundesländer.",
+      "Städte."
+    ]
+  },
+  {
+    "id": 195,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sachsen-Anhalt",
+    "chosen_pdf_option": "Sachsen-Anhalt",
+    "oet_options": [
+      "Hessen",
+      "Sachsen-Anhalt",
+      "Nordrhein-Westfalen",
+      "Saarland"
+    ],
+    "pdf_options": [
+      "Hessen",
+      "Sachsen-Anhalt",
+      "Nordrhein-Westfalen",
+      "Saarland"
+    ]
+  },
+  {
+    "id": 196,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "von einer Diktatur zur Demokratie.",
+    "chosen_pdf_option": "von einer Diktatur zur Demokratie.",
+    "oet_options": [
+      "von einer Diktatur zur Demokratie.",
+      "von einer liberalen Marktwirtschaft zum Sozialismus.",
+      "von einer Monarchie zur Sozialdemokratie.",
+      "von einem religiösen Staat zu einem kommunistischen Staat."
+    ],
+    "pdf_options": [
+      "von einer Diktatur zur Demokratie.",
+      "von einer liberalen Marktwirtschaft zum Sozialismus.",
+      "von einer Monarchie zur Sozialdemokratie.",
+      "von einem religiösen Staat zu einem kommunistischen Staat."
+    ]
+  },
+  {
+    "id": 197,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Thüringen",
+    "chosen_pdf_option": "Thüringen",
+    "oet_options": [
+      "Thüringen",
+      "Hessen",
+      "Bayern",
+      "Bremen"
+    ],
+    "pdf_options": [
+      "Thüringen",
+      "Hessen",
+      "Bayern",
+      "Bremen"
+    ]
+  },
+  {
+    "id": 198,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sachsen",
+    "chosen_pdf_option": "Sachsen",
+    "oet_options": [
+      "Bayern",
+      "Niedersachsen",
+      "Sachsen",
+      "Baden-Württemberg"
+    ],
+    "pdf_options": [
+      "Bayern",
+      "Niedersachsen",
+      "Sachsen",
+      "Baden-Württemberg"
+    ]
+  },
+  {
+    "id": 199,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Ministerium für Staatssicherheit.",
+    "chosen_pdf_option": "das Ministerium für Staatssicherheit.",
+    "oet_options": [
+      "das Parlament.",
+      "das Ministerium für Staatssicherheit.",
+      "eine regierende Partei.",
+      "das Ministerium für Volksbildung."
+    ],
+    "pdf_options": [
+      "das Parlament.",
+      "das Ministerium für Staatssicherheit.",
+      "eine regierende Partei.",
+      "das Ministerium für Volksbildung."
+    ]
+  },
+  {
+    "id": 200,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Mecklenburg-Vorpommern",
+    "chosen_pdf_option": "Mecklenburg-Vorpommern",
+    "oet_options": [
+      "Hessen",
+      "Schleswig-Holstein",
+      "Mecklenburg-Vorpommern",
+      "Saarland"
+    ],
+    "pdf_options": [
+      "Hessen",
+      "Schleswig-Holstein",
+      "Mecklenburg-Vorpommern",
+      "Saarland"
+    ]
+  },
+  {
+    "id": 201,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+    "chosen_pdf_option": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+    "oet_options": [
+      "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+      "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+      "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+      "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+    ],
+    "pdf_options": [
+      "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+      "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+      "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+      "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+    ]
+  },
+  {
+    "id": 202,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "zum Warschauer Pakt",
+    "chosen_pdf_option": "zum Warschauer Pakt",
+    "oet_options": [
+      "zu den Westmächten",
+      "zum Warschauer Pakt",
+      "zur NATO",
+      "zu den blockfreien Staaten"
+    ],
+    "pdf_options": [
+      "zu den Westmächten",
+      "zum Warschauer Pakt",
+      "zur NATO",
+      "zu den blockfreien Staaten"
+    ]
+  },
+  {
+    "id": 203,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Planwirtschaft",
+    "chosen_pdf_option": "Planwirtschaft",
+    "oet_options": [
+      "Marktwirtschaft",
+      "Planwirtschaft",
+      "Angebot und Nachfrage",
+      "Kapitalismus"
+    ],
+    "pdf_options": [
+      "Marktwirtschaft",
+      "Planwirtschaft",
+      "Angebot und Nachfrage",
+      "Kapitalismus"
+    ]
+  },
+  {
+    "id": 204,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+    "chosen_pdf_option": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+    "oet_options": [
+      "Die Bundesrepublik hat die DDR besetzt.",
+      "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+      "Die westlichen Bundesländer sind der DDR beigetreten.",
+      "Die DDR hat die Bundesrepublik Deutschland besetzt."
+    ],
+    "pdf_options": [
+      "Die Bundesrepublik hat die DDR besetzt.",
+      "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+      "Die westlichen Bundesländer sind der DDR beigetreten.",
+      "Die DDR hat die Bundesrepublik Deutschland besetzt."
+    ]
+  },
+  {
+    "id": 205,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "zur Europäischen Union.",
+    "chosen_pdf_option": "zur Europäischen Union.",
+    "oet_options": [
+      "zur Europäischen Union.",
+      "zum Warschauer Pakt.",
+      "zur OPEC.",
+      "zur Europäischen Verteidigungsgemeinschaft."
+    ],
+    "pdf_options": [
+      "zur Europäischen Union.",
+      "zum Warschauer Pakt.",
+      "zur OPEC.",
+      "zur Europäischen Verteidigungsgemeinschaft."
+    ]
+  },
+  {
+    "id": 206,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "an die Opfer des Nationalsozialismus",
+    "chosen_pdf_option": "an die Opfer des Nationalsozialismus",
+    "oet_options": [
+      "an berühmte deutsche Politikerinnen und Politiker",
+      "an die Opfer des Nationalsozialismus",
+      "an Verkehrstote",
+      "an bekannte jüdische Musiker"
+    ],
+    "pdf_options": [
+      "an berühmte deutsche Politikerinnen und Politiker",
+      "an die Opfer des Nationalsozialismus",
+      "an Verkehrstote",
+      "an bekannte jüdische Musiker"
+    ]
+  },
+  {
+    "id": 207,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "im Warschauer Pakt",
+    "chosen_pdf_option": "im Warschauer Pakt",
+    "oet_options": [
+      "in der NATO",
+      "im Rheinbund",
+      "im Warschauer Pakt",
+      "im Europabündnis"
+    ],
+    "pdf_options": [
+      "in der NATO",
+      "im Rheinbund",
+      "im Warschauer Pakt",
+      "im Europabündnis"
+    ]
+  },
+  {
+    "id": 208,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Geheimdienst der DDR",
+    "chosen_pdf_option": "der Geheimdienst der DDR",
+    "oet_options": [
+      "der Geheimdienst im \"Dritten Reich\"",
+      "eine berühmte deutsche Gedenkstätte",
+      "der Geheimdienst der DDR",
+      "ein deutscher Sportverein während des Zweiten Weltkrieges"
+    ],
+    "pdf_options": [
+      "der Geheimdienst im \"Dritten Reich\"",
+      "eine berühmte deutsche Gedenkstätte",
+      "der Geheimdienst der DDR",
+      "ein deutscher Sportverein während des Zweiten Weltkrieges"
+    ]
+  },
+  {
+    "id": 209,
+    "match_kind": "numeric",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "4",
+    "chosen_pdf_option": "Bild 4",
+    "oet_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "pdf_options": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ]
+  },
+  {
+    "id": 210,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "landesweite Streiks und ein Volksaufstand",
+    "chosen_pdf_option": "landesweite Streiks und ein Volksaufstand",
+    "oet_options": [
+      "der feierliche Beitritt zum Warschauer Pakt",
+      "landesweite Streiks und ein Volksaufstand",
+      "der 1. SED-Parteitag",
+      "der erste Besuch Fidel Castros"
+    ],
+    "pdf_options": [
+      "der feierliche Beitritt zum Warschauer Pakt",
+      "landesweite Streiks und ein Volksaufstand",
+      "der 1. SED-Parteitag",
+      "der erste Besuch Fidel Castros"
+    ]
+  },
+  {
+    "id": 211,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Willy Brandt",
+    "chosen_pdf_option": "Willy Brandt",
+    "oet_options": [
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Michail Gorbatschow",
+      "Ludwig Erhard"
+    ],
+    "pdf_options": [
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Michail Gorbatschow",
+      "Ludwig Erhard"
+    ]
+  },
+  {
+    "id": 212,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Bundesrepublik Deutschland",
+    "chosen_pdf_option": "Bundesrepublik Deutschland",
+    "oet_options": [
+      "Bundesstaat Deutschland",
+      "Bundesländer Deutschland",
+      "Bundesrepublik Deutschland",
+      "Bundesbezirk Deutschland"
+    ],
+    "pdf_options": [
+      "Bundesstaat Deutschland",
+      "Bundesländer Deutschland",
+      "Bundesrepublik Deutschland",
+      "Bundesbezirk Deutschland"
+    ]
+  },
+  {
+    "id": 213,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "84 Millionen",
+    "chosen_pdf_option": "84 Millionen",
+    "oet_options": [
+      "70 Millionen",
+      "78 Millionen",
+      "84 Millionen",
+      "90 Millionen"
+    ],
+    "pdf_options": [
+      "70 Millionen",
+      "78 Millionen",
+      "84 Millionen",
+      "90 Millionen"
+    ]
+  },
+  {
+    "id": 214,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "schwarz-rot-gold",
+    "chosen_pdf_option": "schwarz-rot-gold",
+    "oet_options": [
+      "schwarz-rot-gold",
+      "rot-weiß-schwarz",
+      "schwarz-rot-grün",
+      "schwarz-gelb-rot"
+    ],
+    "pdf_options": [
+      "schwarz-rot-gold",
+      "rot-weiß-schwarz",
+      "schwarz-rot-grün",
+      "schwarz-gelb-rot"
+    ]
+  },
+  {
+    "id": 215,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Helmut Kohl",
+    "chosen_pdf_option": "Helmut Kohl",
+    "oet_options": [
+      "Gerhard Schröder",
+      "Helmut Kohl",
+      "Konrad Adenauer",
+      "Helmut Schmidt"
+    ],
+    "pdf_options": [
+      "Gerhard Schröder",
+      "Helmut Kohl",
+      "Konrad Adenauer",
+      "Helmut Schmidt"
+    ]
+  },
+  {
+    "id": 216,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Bundesadler.",
+    "chosen_pdf_option": "der Bundesadler",
+    "oet_options": [
+      "der Bundesadler.",
+      "die Fahne der Stadt Berlin.",
+      "der Reichsadler.",
+      "die Reichskrone."
+    ],
+    "pdf_options": [
+      "der Bundesadler",
+      "die Fahne der Stadt Berlin",
+      "der Reichsadler",
+      "die Reichskrone"
+    ]
+  },
+  {
+    "id": 217,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1949 bis 1990",
+    "chosen_pdf_option": "1949 bis 1990",
+    "oet_options": [
+      "1919 bis 1927",
+      "1933 bis 1945",
+      "1945 bis 1961",
+      "1949 bis 1990"
+    ],
+    "pdf_options": [
+      "1919 bis 1927",
+      "1933 bis 1945",
+      "1945 bis 1961",
+      "1949 bis 1990"
+    ]
+  },
+  {
+    "id": 218,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "5",
+    "chosen_pdf_option": "5",
+    "oet_options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "pdf_options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "id": 219,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "1990",
+    "chosen_pdf_option": "1990",
+    "oet_options": [
+      "1933",
+      "1949",
+      "1971",
+      "1990"
+    ],
+    "pdf_options": [
+      "1933",
+      "1949",
+      "1971",
+      "1990"
+    ]
+  },
+  {
+    "id": 220,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)",
+    "chosen_pdf_option": "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)",
+    "oet_options": [
+      "an das Ende des Zweiten Weltkrieges",
+      "an die Verabschiedung des Grundgesetzes",
+      "an die Wiedervereinigung Deutschlands",
+      "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
+    ],
+    "pdf_options": [
+      "an das Ende des Zweiten Weltkrieges",
+      "an die Verabschiedung des Grundgesetzes",
+      "an die Wiedervereinigung Deutschlands",
+      "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
+    ]
+  },
+  {
+    "id": 221,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+    "chosen_pdf_option": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+    "oet_options": [
+      "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+      "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+      "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+      "Deutsche können in jedem Land mit dem Euro bezahlen."
+    ],
+    "pdf_options": [
+      "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+      "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+      "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+      "Deutsche können in jedem Land mit dem Euro bezahlen."
+    ]
+  },
+  {
+    "id": 222,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Schweiz",
+    "chosen_pdf_option": "Schweiz",
+    "oet_options": [
+      "Ungarn",
+      "Portugal",
+      "Spanien",
+      "Schweiz"
+    ],
+    "pdf_options": [
+      "Ungarn",
+      "Portugal",
+      "Spanien",
+      "Schweiz"
+    ]
+  },
+  {
+    "id": 223,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Polen",
+    "chosen_pdf_option": "Polen",
+    "oet_options": [
+      "Rumänien",
+      "Bulgarien",
+      "Polen",
+      "Griechenland"
+    ],
+    "pdf_options": [
+      "Rumänien",
+      "Bulgarien",
+      "Polen",
+      "Griechenland"
+    ]
+  },
+  {
+    "id": 224,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Europäische Union",
+    "chosen_pdf_option": "Europäische Union",
+    "oet_options": [
+      "Europäische Unternehmen",
+      "Europäische Union",
+      "Einheitliche Union",
+      "Euro Union"
+    ],
+    "pdf_options": [
+      "Europäische Unternehmen",
+      "Europäische Union",
+      "Einheitliche Union",
+      "Euro Union"
+    ]
+  },
+  {
+    "id": 225,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Österreich",
+    "chosen_pdf_option": "Österreich",
+    "oet_options": [
+      "Tschechien",
+      "Norwegen",
+      "Spanien",
+      "Österreich"
+    ],
+    "pdf_options": [
+      "Tschechien",
+      "Norwegen",
+      "Spanien",
+      "Österreich"
+    ]
+  },
+  {
+    "id": 226,
+    "match_kind": "numeric",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "2",
+    "chosen_pdf_option": "Bild 2",
+    "oet_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "pdf_options": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ]
+  },
+  {
+    "id": 227,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Dänemark",
+    "chosen_pdf_option": "Dänemark",
+    "oet_options": [
+      "Finnland",
+      "Dänemark",
+      "Norwegen",
+      "Schweden"
+    ],
+    "pdf_options": [
+      "Finnland",
+      "Dänemark",
+      "Norwegen",
+      "Schweden"
+    ]
+  },
+  {
+    "id": 228,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Deutsche Wiedervereinigung",
+    "chosen_pdf_option": "Deutsche Wiedervereinigung",
+    "oet_options": [
+      "NATO-Osterweiterung",
+      "EU-Osterweiterung",
+      "Deutsche Wiedervereinigung",
+      "Europäische Gemeinschaft"
+    ],
+    "pdf_options": [
+      "NATO-Osterweiterung",
+      "EU-Osterweiterung",
+      "Deutsche Wiedervereinigung",
+      "Europäische Gemeinschaft"
+    ]
+  },
+  {
+    "id": 229,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Luxemburg",
+    "chosen_pdf_option": "Luxemburg",
+    "oet_options": [
+      "Spanien",
+      "Bulgarien",
+      "Norwegen",
+      "Luxemburg"
+    ],
+    "pdf_options": [
+      "Spanien",
+      "Bulgarien",
+      "Norwegen",
+      "Luxemburg"
+    ]
+  },
+  {
+    "id": 230,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "5 Jahre.",
+    "chosen_pdf_option": "5 Jahre.",
+    "oet_options": [
+      "5 Jahre.",
+      "6 Jahre.",
+      "7 Jahre.",
+      "8 Jahre."
+    ],
+    "pdf_options": [
+      "5 Jahre.",
+      "6 Jahre.",
+      "7 Jahre.",
+      "8 Jahre."
+    ]
+  },
+  {
+    "id": 231,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
+    "chosen_pdf_option": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
+    "oet_options": [
+      "Damit sind amerikanische Einwanderer in Europa gemeint.",
+      "Der Begriff meint den Einwanderungsstopp nach Europa.",
+      "Damit sind europäische Auswanderer in den USA gemeint.",
+      "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+    ],
+    "pdf_options": [
+      "Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.",
+      "Der Begriff meint den Einwanderungsstopp nach Europa.",
+      "Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.",
+      "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+    ]
+  },
+  {
+    "id": 232,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Abgeordneten des Europäischen Parlaments",
+    "chosen_pdf_option": "die Abgeordneten des Europäischen Parlaments",
+    "oet_options": [
+      "die Europäische Kommission",
+      "die Länder, die in die EU eintreten dürfen",
+      "die Abgeordneten des Europäischen Parlaments",
+      "die europäische Verfassung"
+    ],
+    "pdf_options": [
+      "die Europäische Kommission",
+      "die Länder, die in die EU eintreten dürfen",
+      "die Abgeordneten des Europäischen Parlaments",
+      "die europäische Verfassung"
+    ]
+  },
+  {
+    "id": 233,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Tschechien",
+    "chosen_pdf_option": "Tschechien",
+    "oet_options": [
+      "Tschechien",
+      "Bulgarien",
+      "Griechenland",
+      "Portugal"
+    ],
+    "pdf_options": [
+      "Tschechien",
+      "Bulgarien",
+      "Griechenland",
+      "Portugal"
+    ]
+  },
+  {
+    "id": 234,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Straßburg",
+    "chosen_pdf_option": "Straßburg",
+    "oet_options": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Straßburg"
+    ],
+    "pdf_options": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Straßburg"
+    ]
+  },
+  {
+    "id": 235,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Frieden und Sicherheit in den Ländern der EU",
+    "chosen_pdf_option": "Frieden und Sicherheit in den Ländern der EU",
+    "oet_options": [
+      "Freundschaft zwischen England und Deutschland",
+      "Reisefreiheit in alle Länder der EU",
+      "Frieden und Sicherheit in den Ländern der EU",
+      "einheitliche Feiertage in den Ländern der EU"
+    ],
+    "pdf_options": [
+      "Freundschaft zwischen England und Deutschland",
+      "Reisefreiheit in alle Länder der EU",
+      "Frieden und Sicherheit in den Ländern der EU",
+      "einheitliche Feiertage in den Ländern der EU"
+    ]
+  },
+  {
+    "id": 236,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "27",
+    "chosen_pdf_option": "27",
+    "oet_options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "pdf_options": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ]
+  },
+  {
+    "id": 237,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+    "chosen_pdf_option": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+    "oet_options": [
+      "Beitritt Deutschlands zur NATO",
+      "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+      "Verpflichtung Deutschlands zu Reparationsleistungen",
+      "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+    ],
+    "pdf_options": [
+      "Beitritt Deutschlands zur NATO",
+      "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+      "Verpflichtung Deutschlands zu Reparationsleistungen",
+      "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+    ]
+  },
+  {
+    "id": 238,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Straßburg, Luxemburg und Brüssel",
+    "chosen_pdf_option": "Straßburg, Luxemburg und Brüssel",
+    "oet_options": [
+      "Paris, London und Den Haag",
+      "Straßburg, Luxemburg und Brüssel",
+      "Rom, Bern und Wien",
+      "Bonn, Zürich und Mailand"
+    ],
+    "pdf_options": [
+      "Paris, London und Den Haag",
+      "Straßburg, Luxemburg und Brüssel",
+      "Rom, Bern und Wien",
+      "Bonn, Zürich und Mailand"
+    ]
+  },
+  {
+    "id": 239,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "durch die \"Römischen Verträge\"",
+    "chosen_pdf_option": "durch die \"Römischen Verträge\"",
+    "oet_options": [
+      "durch die \"Hamburger Verträge\"",
+      "durch die \"Römischen Verträge\"",
+      "durch die \"Pariser Verträge\"",
+      "durch die \"Londoner Verträge\""
+    ],
+    "pdf_options": [
+      "durch die \"Hamburger Verträge\"",
+      "durch die \"Römischen Verträge\"",
+      "durch die \"Pariser Verträge\"",
+      "durch die \"Londoner Verträge\""
+    ]
+  },
+  {
+    "id": 240,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "2002",
+    "chosen_pdf_option": "2002",
+    "oet_options": [
+      "1995",
+      "1998",
+      "2002",
+      "2005"
+    ],
+    "pdf_options": [
+      "1995",
+      "1998",
+      "2002",
+      "2005"
+    ]
+  },
+  {
+    "id": 241,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+    "chosen_pdf_option": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+    "oet_options": [
+      "Sie muss an ihre Krankenkasse schreiben.",
+      "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+      "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+      "Sie muss das Arbeitsamt um Erlaubnis bitten."
+    ],
+    "pdf_options": [
+      "Sie muss an ihre Krankenkasse schreiben.",
+      "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+      "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+      "Sie muss das Arbeitsamt um Erlaubnis bitten."
+    ]
+  },
+  {
+    "id": 242,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Eltern/die Erziehungsberechtigten",
+    "chosen_pdf_option": "die Eltern/die Erziehungsberechtigten",
+    "oet_options": [
+      "der Staat",
+      "die Bundesländer",
+      "die Eltern/die Erziehungsberechtigten",
+      "die Schulen"
+    ],
+    "pdf_options": [
+      "der Staat",
+      "die Bundesländer",
+      "die Eltern/die Erziehungsberechtigten",
+      "die Schulen"
+    ]
+  },
+  {
+    "id": 243,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sie müssen die Demonstration anmelden.",
+    "chosen_pdf_option": "Sie müssen die Demonstration anmelden.",
+    "oet_options": [
+      "Sie müssen die Demonstration anmelden.",
+      "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+      "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+      "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+    ],
+    "pdf_options": [
+      "Sie müssen die Demonstration anmelden.",
+      "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+      "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+      "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+    ]
+  },
+  {
+    "id": 244,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Abitur",
+    "chosen_pdf_option": "das Abitur",
+    "oet_options": [
+      "das Abitur",
+      "ein Diplom",
+      "die Prokura",
+      "eine Gesellenprüfung"
+    ],
+    "pdf_options": [
+      "das Abitur",
+      "ein Diplom",
+      "die Prokura",
+      "eine Gesellenprüfung"
+    ]
+  },
+  {
+    "id": 245,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Anne (13 Jahre) und Tim (25 Jahre)",
+    "chosen_pdf_option": "Anne (13 Jahre) und Tim (25 Jahre)",
+    "oet_options": [
+      "Hans (20 Jahre) und Marie (19 Jahre)",
+      "Tom (20 Jahre) und Klaus (45 Jahre)",
+      "Sofie (35 Jahre) und Lisa (40 Jahre)",
+      "Anne (13 Jahre) und Tim (25 Jahre)"
+    ],
+    "pdf_options": [
+      "Hans (20 Jahre) und Marie (19 Jahre)",
+      "Tom (20 Jahre) und Klaus (45 Jahre)",
+      "Sofie (35 Jahre) und Lisa (40 Jahre)",
+      "Anne (13 Jahre) und Tim (25 Jahre)"
+    ]
+  },
+  {
+    "id": 246,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "18",
+    "chosen_pdf_option": "18",
+    "oet_options": [
+      "16",
+      "18",
+      "19",
+      "21"
+    ],
+    "pdf_options": [
+      "16",
+      "18",
+      "19",
+      "21"
+    ]
+  },
+  {
+    "id": 247,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Mutterschutz",
+    "chosen_pdf_option": "Mutterschutz",
+    "oet_options": [
+      "Elternzeit",
+      "Mutterschutz",
+      "Geburtsvorbereitung",
+      "Wochenbett"
+    ],
+    "pdf_options": [
+      "Elternzeit",
+      "Mutterschutz",
+      "Geburtsvorbereitung",
+      "Wochenbett"
+    ]
+  },
+  {
+    "id": 248,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Eltern.",
+    "chosen_pdf_option": "der Eltern.",
+    "oet_options": [
+      "des Staates.",
+      "der Eltern.",
+      "der Großeltern.",
+      "der Schulen."
+    ],
+    "pdf_options": [
+      "des Staates.",
+      "der Eltern.",
+      "der Großeltern.",
+      "der Schulen."
+    ]
+  },
+  {
+    "id": 249,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Eltern",
+    "chosen_pdf_option": "die Eltern",
+    "oet_options": [
+      "der Staat",
+      "die Eltern",
+      "die Verwandten",
+      "die Schulen"
+    ],
+    "pdf_options": [
+      "der Staat",
+      "die Eltern",
+      "die Verwandten",
+      "die Schulen"
+    ]
+  },
+  {
+    "id": 250,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "gut ausgebildet ist.",
+    "chosen_pdf_option": "gut ausgebildet ist.",
+    "oet_options": [
+      "katholisch ist.",
+      "gut ausgebildet ist.",
+      "eine Frau ist.",
+      "Mitglied einer Partei ist."
+    ],
+    "pdf_options": [
+      "katholisch ist.",
+      "gut ausgebildet ist.",
+      "eine Frau ist.",
+      "Mitglied einer Partei ist."
+    ]
+  },
+  {
+    "id": 251,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "kann man dafür bestraft werden.",
+    "chosen_pdf_option": "kann man dafür bestraft werden.",
+    "oet_options": [
+      "geht das niemanden etwas an.",
+      "geht das nur die Familie etwas an.",
+      "kann man dafür nicht bestraft werden.",
+      "kann man dafür bestraft werden."
+    ],
+    "pdf_options": [
+      "geht das niemanden etwas an.",
+      "geht das nur die Familie etwas an.",
+      "kann man dafür nicht bestraft werden.",
+      "kann man dafür bestraft werden."
+    ]
+  },
+  {
+    "id": 252,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+    "chosen_pdf_option": "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+    "oet_options": [
+      "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+      "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
+      "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+      "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+    ],
+    "pdf_options": [
+      "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+      "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
+      "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+      "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+    ]
+  },
+  {
+    "id": 253,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "beim Einwohnermeldeamt",
+    "chosen_pdf_option": "beim Einwohnermeldeamt",
+    "oet_options": [
+      "beim Einwohnermeldeamt",
+      "beim Standesamt",
+      "beim Ordnungsamt",
+      "beim Gewerbeamt"
+    ],
+    "pdf_options": [
+      "beim Einwohnermeldeamt",
+      "beim Standesamt",
+      "beim Ordnungsamt",
+      "beim Gewerbeamt"
+    ]
+  },
+  {
+    "id": 254,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich",
+    "chosen_pdf_option": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
+    "oet_options": [
+      "Der Scheidungsprozess dauert ein Jahr",
+      "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich",
+      "Das Besuchsrecht für die Kinder gilt ein Jahr",
+      "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich"
+    ],
+    "pdf_options": [
+      "Der Scheidungsprozess dauert ein Jahr.",
+      "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+      "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+      "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+    ]
+  },
+  {
+    "id": 255,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Jugendamt.",
+    "chosen_pdf_option": "Jugendamt.",
+    "oet_options": [
+      "Ordnungsamt.",
+      "Schulamt.",
+      "Jugendamt.",
+      "Gesundheitsamt."
+    ],
+    "pdf_options": [
+      "Ordnungsamt.",
+      "Schulamt.",
+      "Jugendamt.",
+      "Gesundheitsamt."
+    ]
+  },
+  {
+    "id": 256,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "eine Gaststättenerlaubnis von der zuständigen Behörde",
+    "chosen_pdf_option": "eine Gaststättenerlaubnis von der zuständigen Behörde",
+    "oet_options": [
+      "eine Erlaubnis der Polizei",
+      "eine Genehmigung einer Partei",
+      "eine Genehmigung des Einwohnermeldeamts",
+      "eine Gaststättenerlaubnis von der zuständigen Behörde"
+    ],
+    "pdf_options": [
+      "eine Erlaubnis der Polizei",
+      "eine Genehmigung einer Partei",
+      "eine Genehmigung des Einwohnermeldeamts",
+      "eine Gaststättenerlaubnis von der zuständigen Behörde"
+    ]
+  },
+  {
+    "id": 257,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "einem Abendgymnasium.",
+    "chosen_pdf_option": "einem Abendgymnasium.",
+    "oet_options": [
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule.",
+      "einer Privatuniversität."
+    ],
+    "pdf_options": [
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule.",
+      "einer Privatuniversität."
+    ]
+  },
+  {
+    "id": 258,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+    "chosen_pdf_option": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+    "oet_options": [
+      "Es entscheidet, welche Schule das Kind besucht.",
+      "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+      "Es bezahlt das Kindergeld an die Eltern.",
+      "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+    ],
+    "pdf_options": [
+      "Es entscheidet, welche Schule das Kind besucht.",
+      "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+      "Es bezahlt das Kindergeld an die Eltern.",
+      "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+    ]
+  },
+  {
+    "id": 259,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Lehrstellensuche.",
+    "chosen_pdf_option": "Lehrstellensuche.",
+    "oet_options": [
+      "Rentenberechnung.",
+      "Lehrstellensuche.",
+      "Steuererklärung.",
+      "Krankenversicherung."
+    ],
+    "pdf_options": [
+      "Rentenberechnung.",
+      "Lehrstellensuche.",
+      "Steuererklärung.",
+      "Krankenversicherung."
+    ]
+  },
+  {
+    "id": 260,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Anwesenheitspflicht.",
+    "chosen_pdf_option": "Anwesenheitspflicht.",
+    "oet_options": [
+      "Recht auf unbegrenzte Freizeit.",
+      "Wahlfreiheit für alle Fächer.",
+      "Anspruch auf Schulgeld.",
+      "Anwesenheitspflicht."
+    ],
+    "pdf_options": [
+      "Recht auf unbegrenzte Freizeit.",
+      "Wahlfreiheit für alle Fächer.",
+      "Anspruch auf Schulgeld.",
+      "Anwesenheitspflicht."
+    ]
+  },
+  {
+    "id": 261,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "einem Abendgymnasium",
+    "chosen_pdf_option": "einem Abendgymnasium.",
+    "oet_options": [
+      "einer Hochschule",
+      "einem Abendgymnasium",
+      "einer Hauptschule",
+      "einer Privatuniversität"
+    ],
+    "pdf_options": [
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule.",
+      "einer Privatuniversität."
+    ]
+  },
+  {
+    "id": 262,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+    "chosen_pdf_option": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+    "oet_options": [
+      "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+      "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+      "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+      "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+    ],
+    "pdf_options": [
+      "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+      "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+      "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+      "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+    ]
+  },
+  {
+    "id": 263,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "werden bestraft.",
+    "chosen_pdf_option": "werden bestraft.",
+    "oet_options": [
+      "werden bestraft.",
+      "werden wie Erwachsene behandelt.",
+      "teilen die Strafe mit ihren Eltern.",
+      "werden nicht bestraft."
+    ],
+    "pdf_options": [
+      "werden bestraft.",
+      "werden wie Erwachsene behandelt.",
+      "teilen die Strafe mit ihren Eltern.",
+      "werden nicht bestraft."
+    ]
+  },
+  {
+    "id": 264,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "am Rosenmontag",
+    "chosen_pdf_option": "am Rosenmontag",
+    "oet_options": [
+      "am Rosenmontag",
+      "am Maifeiertag",
+      "beim Oktoberfest",
+      "an Pfingsten"
+    ],
+    "pdf_options": [
+      "am Rosenmontag",
+      "am Maifeiertag",
+      "beim Oktoberfest",
+      "an Pfingsten"
+    ]
+  },
+  {
+    "id": 265,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "zum Standesamt",
+    "chosen_pdf_option": "zum Standesamt",
+    "oet_options": [
+      "zum Einwohnermeldeamt",
+      "zum Ordnungsamt",
+      "zur Agentur für Arbeit",
+      "zum Standesamt"
+    ],
+    "pdf_options": [
+      "zum Einwohnermeldeamt",
+      "zum Ordnungsamt",
+      "zur Agentur für Arbeit",
+      "zum Standesamt"
+    ]
+  },
+  {
+    "id": 266,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "um 22 Uhr",
+    "chosen_pdf_option": "um 22 Uhr",
+    "oet_options": [
+      "wenn die Sonne untergeht",
+      "wenn die Nachbarn schlafen gehen",
+      "um 0 Uhr, Mitternacht",
+      "um 22 Uhr"
+    ],
+    "pdf_options": [
+      "wenn die Sonne untergeht",
+      "wenn die Nachbarn schlafen gehen",
+      "um 0 Uhr, Mitternacht",
+      "um 22 Uhr"
+    ]
+  },
+  {
+    "id": 267,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+    "chosen_pdf_option": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+    "oet_options": [
+      "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+      "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+      "Sie können zur Polizei gehen und die Tochter anzeigen.",
+      "Sie suchen einen anderen Mann für die Tochter."
+    ],
+    "pdf_options": [
+      "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+      "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+      "Sie können zur Polizei gehen und die Tochter anzeigen.",
+      "Sie suchen einen anderen Mann für die Tochter."
+    ]
+  },
+  {
+    "id": 268,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+    "chosen_pdf_option": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+    "oet_options": [
+      "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+      "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+      "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+      "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+    ],
+    "pdf_options": [
+      "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+      "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+      "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+      "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+    ]
+  },
+  {
+    "id": 269,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "einen Kindergartenplatz.",
+    "chosen_pdf_option": "einen Kindergartenplatz.",
+    "oet_options": [
+      "monatliches Taschengeld.",
+      "einen Platz in einem Sportverein.",
+      "einen Kindergartenplatz.",
+      "einen Ferienpass."
+    ],
+    "pdf_options": [
+      "monatliches Taschengeld.",
+      "einen Platz in einem Sportverein.",
+      "einen Kindergartenplatz.",
+      "einen Ferienpass."
+    ]
+  },
+  {
+    "id": 270,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "zur Weiterbildung.",
+    "chosen_pdf_option": "zur Weiterbildung.",
+    "oet_options": [
+      "für den Religionsunterricht.",
+      "nur für Jugendliche.",
+      "zur Weiterbildung.",
+      "nur für Rentner und Rentnerinnen."
+    ],
+    "pdf_options": [
+      "für den Religionsunterricht.",
+      "nur für Jugendliche.",
+      "zur Weiterbildung.",
+      "nur für Rentnerinnen und Rentner."
+    ]
+  },
+  {
+    "id": 271,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "einen Tannenbaum schmücken",
+    "chosen_pdf_option": "einen Tannenbaum schmücken",
+    "oet_options": [
+      "bunte Eier verstecken",
+      "einen Tannenbaum schmücken",
+      "sich mit Masken und Kostümen verkleiden",
+      "Kürbisse vor die Tür stellen"
+    ],
+    "pdf_options": [
+      "bunte Eier verstecken",
+      "einen Tannenbaum schmücken",
+      "sich mit Masken und Kostümen verkleiden",
+      "Kürbisse vor die Tür stellen"
+    ]
+  },
+  {
+    "id": 272,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
+    "chosen_pdf_option": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
+    "oet_options": [
+      "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+      "Zwei Frauen leben zusammen.",
+      "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+      "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+    ],
+    "pdf_options": [
+      "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+      "Zwei Frauen leben zusammen.",
+      "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+      "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+    ]
+  },
+  {
+    "id": 273,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "zum Jugendamt.",
+    "chosen_pdf_option": "zum Jugendamt.",
+    "oet_options": [
+      "zum Arzt / zur Ärztin.",
+      "zum Gesundheitsamt.",
+      "zum Einwohnermeldeamt.",
+      "zum Jugendamt."
+    ],
+    "pdf_options": [
+      "zur Ärztin/zum Arzt.",
+      "zum Gesundheitsamt.",
+      "zum Einwohnermeldeamt.",
+      "zum Jugendamt."
+    ]
+  },
+  {
+    "id": 274,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Briefgeheimnis",
+    "chosen_pdf_option": "das Briefgeheimnis",
+    "oet_options": [
+      "das Schweigerecht",
+      "das Briefgeheimnis",
+      "die Schweigepflicht",
+      "die Meinungsfreiheit"
+    ],
+    "pdf_options": [
+      "das Schweigerecht",
+      "das Briefgeheimnis",
+      "die Schweigepflicht",
+      "die Meinungsfreiheit"
+    ]
+  },
+  {
+    "id": 275,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Unterstützung eines Anwalts / einer Anwältin",
+    "chosen_pdf_option": "die Unterstützung einer Anwältin/eines Anwalts",
+    "oet_options": [
+      "die Einwilligung der Eltern",
+      "ein Attest eines Arztes / einer Ärztin",
+      "die Einwilligung der Kinder",
+      "die Unterstützung eines Anwalts / einer Anwältin"
+    ],
+    "pdf_options": [
+      "die Einwilligung der Eltern",
+      "ein Attest einer Ärztin/eines Arztes",
+      "die Einwilligung der Kinder",
+      "die Unterstützung einer Anwältin/eines Anwalts"
+    ]
+  },
+  {
+    "id": 276,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.",
+    "chosen_pdf_option": "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.",
+    "oet_options": [
+      "Ich kann nichts tun.",
+      "Ich muss mir diese Behandlung gefallen lassen.",
+      "Ich drohe der Person.",
+      "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren."
+    ],
+    "pdf_options": [
+      "Ich kann nichts tun.",
+      "Ich muss mir diese Behandlung gefallen lassen.",
+      "Ich drohe der Person.",
+      "Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren."
+    ]
+  },
+  {
+    "id": 277,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Mutter ist.",
+    "chosen_pdf_option": "Mutter ist.",
+    "oet_options": [
+      "kein Englisch spricht.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "keine Erfahrungen in diesem Beruf hat.",
+      "Mutter ist."
+    ],
+    "pdf_options": [
+      "kein Englisch spricht.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "keine Erfahrungen in diesem Beruf hat.",
+      "Mutter ist."
+    ]
+  },
+  {
+    "id": 278,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "im Rollstuhl sitzt.",
+    "chosen_pdf_option": "im Rollstuhl sitzt.",
+    "oet_options": [
+      "im Rollstuhl sitzt.",
+      "keine Erfahrung hat.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "kein Englisch spricht."
+    ],
+    "pdf_options": [
+      "im Rollstuhl sitzt.",
+      "keine Erfahrung hat.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "kein Englisch spricht."
+    ]
+  },
+  {
+    "id": 279,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+    "chosen_pdf_option": "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+    "oet_options": [
+      "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+      "alle Mieter und Mieterinnen im Haus.",
+      "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+      "die Adresse des nächsten Ordnungsamtes."
+    ],
+    "pdf_options": [
+      "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+      "alle Mieterinnen und Mieter im Haus.",
+      "Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",
+      "die Adresse des nächsten Ordnungsamtes."
+    ]
+  },
+  {
+    "id": 280,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Einspruch einlegen.",
+    "chosen_pdf_option": "Einspruch einlegen.",
+    "oet_options": [
+      "nichts machen.",
+      "den Bescheid wegwerfen.",
+      "Einspruch einlegen.",
+      "warten, bis ein anderer Bescheid kommt."
+    ],
+    "pdf_options": [
+      "nichts machen.",
+      "den Bescheid wegwerfen.",
+      "Einspruch einlegen.",
+      "warten, bis ein anderer Bescheid kommt."
+    ]
+  },
+  {
+    "id": 281,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Gleichbehandlung.",
+    "chosen_pdf_option": "Gleichbehandlung",
+    "oet_options": [
+      "Meinungsfreiheit.",
+      "Gleichbehandlung.",
+      "Versammlungsfreiheit.",
+      "Freizügigkeit."
+    ],
+    "pdf_options": [
+      "Meinungsfreiheit",
+      "Gleichbehandlung",
+      "Versammlungsfreiheit",
+      "Freizügigkeit"
+    ]
+  },
+  {
+    "id": 282,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Wahlhelfer / Wahlhelferin",
+    "chosen_pdf_option": "Wahlhelferin/Wahlhelfer",
+    "oet_options": [
+      "Vereinstrainer / Vereinstrainerin",
+      "Wahlhelfer / Wahlhelferin",
+      "Bibliotheksaufsicht",
+      "Lehrer / Lehrerin"
+    ],
+    "pdf_options": [
+      "Vereinstrainerin/Vereinstrainer",
+      "Wahlhelferin/Wahlhelfer",
+      "Bibliotheksaufsicht",
+      "Lehrerin/Lehrer"
+    ]
+  },
+  {
+    "id": 283,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Ich lege Widerspruch bei der Behörde ein.",
+    "chosen_pdf_option": "Ich lege Widerspruch bei der Behörde ein.",
+    "oet_options": [
+      "Ich lasse die Rechnung liegen.",
+      "Ich lege Widerspruch bei der Behörde ein.",
+      "Ich schicke die Rechnung an die Behörde zurück.",
+      "Ich gehe mit der Rechnung zum Finanzamt."
+    ],
+    "pdf_options": [
+      "Ich lasse die Rechnung liegen.",
+      "Ich lege Widerspruch bei der Behörde ein.",
+      "Ich schicke die Rechnung an die Behörde zurück.",
+      "Ich gehe mit der Rechnung zum Finanzamt."
+    ]
+  },
+  {
+    "id": 284,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+    "chosen_pdf_option": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+    "oet_options": [
+      "Es ist egal, was man lernt.",
+      "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+      "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+      "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+    ],
+    "pdf_options": [
+      "Es ist egal, was man lernt.",
+      "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+      "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+      "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+    ]
+  },
+  {
+    "id": 285,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Umsatzsteuer",
+    "chosen_pdf_option": "Umsatzsteuer",
+    "oet_options": [
+      "Lohnsteuer",
+      "Beiträge zur Arbeitslosenversicherung",
+      "Beiträge zur Renten- und Krankenversicherung",
+      "Umsatzsteuer"
+    ],
+    "pdf_options": [
+      "Lohnsteuer",
+      "Beiträge zur Arbeitslosenversicherung",
+      "Beiträge zur Renten- und Krankenversicherung",
+      "Umsatzsteuer"
+    ]
+  },
+  {
+    "id": 286,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "der Betriebsrat",
+    "chosen_pdf_option": "der Betriebsrat",
+    "oet_options": [
+      "der Betriebsrat",
+      "der Betriebsprüfer / die Betriebsprüferin",
+      "die Betriebsgruppe",
+      "das Betriebsmanagement"
+    ],
+    "pdf_options": [
+      "der Betriebsrat",
+      "die Betriebsprüferin/der Betriebsprüfer",
+      "die Betriebsgruppe",
+      "das Betriebsmanagement"
+    ]
+  },
+  {
+    "id": 287,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Kündigungsfrist",
+    "chosen_pdf_option": "die Kündigungsfrist",
+    "oet_options": [
+      "die Gehaltszahlungen",
+      "die Arbeitszeit",
+      "die Kündigungsfrist",
+      "die Versícherungspflicht"
+    ],
+    "pdf_options": [
+      "die Gehaltszahlungen",
+      "die Arbeitszeit",
+      "die Kündigungsfrist",
+      "die Versicherungspflicht"
+    ]
+  },
+  {
+    "id": 288,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "aus den nationalsozialistischen Verbrechen gegen Juden",
+    "chosen_pdf_option": "aus den nationalsozialistischen Verbrechen gegen Juden",
+    "oet_options": [
+      "aus der Mitgliedschaft in der Europäischen Union (EU)",
+      "aus den nationalsozialistischen Verbrechen gegen Juden",
+      "aus dem Grundgesetz der Bundesrepublik Deutschland",
+      "aus der christlichen Tradition"
+    ],
+    "pdf_options": [
+      "aus der Mitgliedschaft in der Europäischen Union (EU)",
+      "aus den nationalsozialistischen Verbrechen gegen Juden",
+      "aus dem Grundgesetz der Bundesrepublik Deutschland",
+      "aus der christlichen Tradition"
+    ]
+  },
+  {
+    "id": 289,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "er eine dunkle Haut hat.",
+    "chosen_pdf_option": "er eine dunkle Haut hat.",
+    "oet_options": [
+      "seine Deutschkenntnisse zu gering sind.",
+      "er zu hohe Gehaltsvorstellungen hat.",
+      "er eine dunkle Haut hat.",
+      "er keine Erfahrungen im Beruf hat."
+    ],
+    "pdf_options": [
+      "seine Deutschkenntnisse zu gering sind.",
+      "er zu hohe Gehaltsvorstellungen hat.",
+      "er eine dunkle Haut hat.",
+      "er keine Erfahrungen im Beruf hat."
+    ]
+  },
+  {
+    "id": 290,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "den Fernseher reklamieren",
+    "chosen_pdf_option": "den Fernseher reklamieren",
+    "oet_options": [
+      "eine Anzeige schreiben",
+      "den Fernseher reklamieren",
+      "das Gerät ungefragt austauschen",
+      "die Garantie verlängern"
+    ],
+    "pdf_options": [
+      "eine Anzeige schreiben",
+      "den Fernseher reklamieren",
+      "das Gerät ungefragt austauschen",
+      "die Garantie verlängern"
+    ]
+  },
+  {
+    "id": 291,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+    "chosen_pdf_option": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+    "oet_options": [
+      "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+      "das für die Statistik in Deutschland wichtig ist.",
+      "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+      "die Kirche für die Steuererklärung verantwortlich ist."
+    ],
+    "pdf_options": [
+      "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+      "das für die Statistik in Deutschland wichtig ist.",
+      "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+      "die Kirche für die Steuererklärung verantwortlich ist."
+    ]
+  },
+  {
+    "id": 292,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Jeder kann glauben, was er möchte.",
+    "chosen_pdf_option": "Jeder kann glauben, was er möchte.",
+    "oet_options": [
+      "Es dürfen keine Moscheen gebaut werden.",
+      "Alle Menschen glauben an Gott.",
+      "Jeder kann glauben, was er möchte.",
+      "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+    ],
+    "pdf_options": [
+      "Es dürfen keine Moscheen gebaut werden.",
+      "Alle Menschen glauben an Gott.",
+      "Jeder kann glauben, was er möchte.",
+      "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+    ]
+  },
+  {
+    "id": 293,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Eier bemalen",
+    "chosen_pdf_option": "Eier bemalen",
+    "oet_options": [
+      "Kürbisse vor die Tür stellen",
+      "einen Tannenbaum schmücken",
+      "Eier bemalen",
+      "Raketen in die Luft schießen"
+    ],
+    "pdf_options": [
+      "Kürbisse vor die Tür stellen",
+      "einen Tannenbaum schmücken",
+      "Eier bemalen",
+      "Raketen in die Luft schießen"
+    ]
+  },
+  {
+    "id": 294,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "christlicher Feiertag.",
+    "chosen_pdf_option": "christlicher Feiertag.",
+    "oet_options": [
+      "christlicher Feiertag.",
+      "deutscher Gedenktag.",
+      "internationaler Trauertag.",
+      "bayerischer Brauch."
+    ],
+    "pdf_options": [
+      "christlicher Feiertag.",
+      "deutscher Gedenktag.",
+      "internationaler Trauertag.",
+      "bayerischer Brauch."
+    ]
+  },
+  {
+    "id": 295,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "das Christentum",
+    "chosen_pdf_option": "das Christentum",
+    "oet_options": [
+      "der Hinduismus",
+      "das Christentum",
+      "der Buddhismus",
+      "der Islam"
+    ],
+    "pdf_options": [
+      "der Hinduismus",
+      "das Christentum",
+      "der Buddhismus",
+      "der Islam"
+    ]
+  },
+  {
+    "id": 296,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "die Adventszeit.",
+    "chosen_pdf_option": "die Adventszeit.",
+    "oet_options": [
+      "den Buß- und Bettag.",
+      "das Erntedankfest.",
+      "die Adventszeit.",
+      "Allerheiligen."
+    ],
+    "pdf_options": [
+      "den Buß- und Bettag.",
+      "das Erntedankfest.",
+      "die Adventszeit.",
+      "Allerheiligen."
+    ]
+  },
+  {
+    "id": 297,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Türkei",
+    "chosen_pdf_option": "Türkei",
+    "oet_options": [
+      "Italien",
+      "Polen",
+      "Marokko",
+      "Türkei"
+    ],
+    "pdf_options": [
+      "Italien",
+      "Polen",
+      "Marokko",
+      "Türkei"
+    ]
+  },
+  {
+    "id": 298,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Vietnam, Polen, Mosambik.",
+    "chosen_pdf_option": "Vietnam, Polen, Mosambik.",
+    "oet_options": [
+      "Vietnam, Polen, Mosambik.",
+      "Frankreich, Rumänien, Somalia.",
+      "Chile, Ungarn, Simbabwe.",
+      "Nordkorea, Mexiko, Ägypten."
+    ],
+    "pdf_options": [
+      "Vietnam, Polen, Mosambik.",
+      "Frankreich, Rumänien, Somalia.",
+      "Chile, Ungarn, Simbabwe.",
+      "Nordkorea, Mexiko, Ägypten."
+    ]
+  },
+  {
+    "id": 299,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Gastarbeiter / Gastarbeiterinnen.",
+    "chosen_pdf_option": "Gastarbeiterinnen/Gastarbeiter.",
+    "oet_options": [
+      "Schwarzarbeiter / Schwarzarbeiterinnen.",
+      "Gastarbeiter / Gastarbeiterinnen.",
+      "Zeitarbeiter /Zeitarbeiterinnen.",
+      "Schichtarbeiter / Schichtarbeiterinnen."
+    ],
+    "pdf_options": [
+      "Schwarzarbeiterinnen/Schwarzarbeiter.",
+      "Gastarbeiterinnen/Gastarbeiter.",
+      "Zeitarbeiterinnen/Zeitarbeiter.",
+      "Schichtarbeiterinnen/Schichtarbeiter."
+    ]
+  },
+  {
+    "id": 300,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Italien",
+    "chosen_pdf_option": "Italien",
+    "oet_options": [
+      "Italien",
+      "Spanien",
+      "Portugal",
+      "Türkei"
+    ],
+    "pdf_options": [
+      "Italien",
+      "Spanien",
+      "Portugal",
+      "Türkei"
+    ]
+  },
+  {
+    "id": 301,
+    "match_kind": "numeric",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "4",
+    "chosen_pdf_option": "Bild 4",
+    "oet_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "pdf_options": [
+      "Bild 1",
+      "Bild 2",
+      "Bild 3",
+      "Bild 4"
+    ]
+  },
+  {
+    "id": 302,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Pankow",
+    "chosen_pdf_option": "Pankow",
+    "oet_options": [
+      "Altona",
+      "Prignitz",
+      "Pankow",
+      "Mecklenburgische Seenplatte"
+    ],
+    "pdf_options": [
+      "Altona",
+      "Prignitz",
+      "Pankow",
+      "Mecklenburgische Seenplatte"
+    ]
+  },
+  {
+    "id": 303,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "5",
+    "chosen_pdf_option": "5",
+    "oet_options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "pdf_options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 304,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "16",
+    "chosen_pdf_option": "16",
+    "oet_options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "pdf_options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ]
+  },
+  {
+    "id": 305,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "weiß-rot",
+    "chosen_pdf_option": "weiß-rot",
+    "oet_options": [
+      "blau-weiß-rot",
+      "weiß-rot",
+      "grün-weiß-rot",
+      "schwarz-gold"
+    ],
+    "pdf_options": [
+      "blau-weiß-rot",
+      "weiß-rot",
+      "grün-weiß-rot",
+      "schwarz-gold"
+    ]
+  },
+  {
+    "id": 306,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "bei der Landeszentrale für politische Bildung",
+    "chosen_pdf_option": "bei der Landeszentrale für politische Bildung",
+    "oet_options": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei den Kirchen",
+      "bei der Verbraucherzentrale",
+      "bei der Landeszentrale für politische Bildung"
+    ],
+    "pdf_options": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei den Kirchen",
+      "bei der Verbraucherzentrale",
+      "bei der Landeszentrale für politische Bildung"
+    ]
+  },
+  {
+    "id": 307,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Berlin",
+    "chosen_pdf_option": "Berlin",
+    "oet_options": [
+      "Berlin",
+      "Saarland",
+      "Brandenburg",
+      "Hessen"
+    ],
+    "pdf_options": [
+      "Berlin",
+      "Saarland",
+      "Brandenburg",
+      "Hessen"
+    ]
+  },
+  {
+    "id": 308,
+    "match_kind": "numeric",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "4",
+    "chosen_pdf_option": "4",
+    "oet_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "pdf_options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": 309,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Regierender Bürgermeister/ Regierende Bürgermeisterin",
+    "chosen_pdf_option": "Regierende Bürgermeisterin/Regierender Bürgermeister",
+    "oet_options": [
+      "Ministerpräsident/ Ministerpräsidentin",
+      "Oberbürgermeister/ Oberbürgermeisterin",
+      "Präsident/ Präsidentin des Senats",
+      "Regierender Bürgermeister/ Regierende Bürgermeisterin"
+    ],
+    "pdf_options": [
+      "Ministerpräsidentin/Ministerpräsident",
+      "Oberbürgermeisterin/Oberbürgermeister",
+      "Präsidentin/Präsident des Senates",
+      "Regierende Bürgermeisterin/Regierender Bürgermeister"
+    ]
+  },
+  {
+    "id": 310,
+    "match_kind": "text",
+    "match_confidence": 1.0,
+    "flags": [],
+    "oet_correct": "Senator / Senatorin für Außenbeziehungen",
+    "chosen_pdf_option": "Senatorin/Senator für Außenbeziehungen",
+    "oet_options": [
+      "Finanzsenator / Finanzsenatorin",
+      "Innensenator / Innensenatorin",
+      "Senator / Senatorin für Außenbeziehungen",
+      "Justizsenator / Justizsenatorin"
+    ],
+    "pdf_options": [
+      "Finanzsenatorin/Finanzsenator",
+      "Innensenatorin/Innensenator",
+      "Senatorin/Senator für Außenbeziehungen",
+      "Justizsenatorin/Justizsenator"
+    ]
+  }
+]
