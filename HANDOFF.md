@@ -50,7 +50,7 @@ Preserve localStorage `eb_state_v1`, sessionStorage `eb_exam_session_v1` and val
 
 Exam/review display one question at a time. Choices stay editable until submission and correctness stays hidden while active. The immediate timer tick runs before interval allocation; an expired/completed session must grade only once. Denied storage keeps live state in memory but does not promise reload persistence.
 
-The downloaded app supports offline `file://`; hosted offline reload is not guaranteed because there is no service worker. The home countdown is legacy demo configuration, not a test booking. Original question image bytes and aspect ratios are preserved; avoid recompression or cropping.
+The downloaded app supports offline `file://`; hosted offline reload is not guaranteed because there is no service worker. Original question image bytes and aspect ratios are preserved; avoid recompression or cropping.
 
 ## Builder and safe changes
 
@@ -78,7 +78,7 @@ See [tests/README.md](tests/README.md) for optional disposable-context browser c
 
 ## Deployment boundary
 
-The mobile update was deployed directly through Vercel's REST API on 2026-09-09. The public site is https://einbuergerungstest-berlin.vercel.app. Git automatic deployment is not configured.
+The public site is https://einbuergerungstest-berlin.vercel.app. **Git automatic deployment is configured (2026-09-10):** the Vercel project is connected to this GitHub repo with **Root Directory = `app`**, so pushes to `main` deploy to production. The REST deployer remains a manual fallback and was the original 2026-09-09 method.
 
 The REST deployer uses `VERCEL_TOKEN`, optional `VERCEL_TEAM_ID`, and `VERCEL_PROJECT` (default project name `einbuergerungstest-berlin`). The dry run is offline; a real invocation publishes to **production**. Keep credentials out of files and command arguments. Only runtime scripts/styles/images/config enter the deployment manifest; tests, reports and reference JSON do not.
 

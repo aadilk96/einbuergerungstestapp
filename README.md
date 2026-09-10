@@ -4,7 +4,7 @@ A static German citizenship-test study app with **310 questions: 300 general + 1
 
 **Live app:** https://einbuergerungstest-berlin.vercel.app
 
-The mobile update is live as of 2026-09-09, deployed directly through Vercel's REST API. Git-based automatic deployment is not configured.
+The app is live and deploys automatically from this repository: the Vercel project is connected to GitHub with **Root Directory = `app`**, so pushes to `main` publish to production. The REST deployer (below) remains a manual fallback.
 
 ## Run locally
 
@@ -26,7 +26,7 @@ Open http://127.0.0.1:8124. Alternatively, open `app/index.html` directly. The c
 - **Stats:** progress, streak and exam history.
 - Mobile bottom navigation, light/dark themes, bilingual display, and full-size question images.
 
-Progress is stored in the current browser/origin, not synchronized across devices. An active exam survives reload in the same tab using sessionStorage. When storage is denied, the app warns and runs in memory; reload may lose progress. The home countdown is a fixed demo-era setting, **not a booking or schedule for your test**.
+Progress is stored in the current browser/origin, not synchronized across devices. An active exam survives reload in the same tab using sessionStorage. When storage is denied, the app warns and runs in memory; reload may lose progress.
 
 ## Repository layout
 

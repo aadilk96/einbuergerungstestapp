@@ -3,7 +3,6 @@ window.EB = window.EB || {};
 (function () {
   var ui = EB.ui, el = ui.el, session = EB.session;
   var view = document.getElementById("view");
-  var EXAM_DATE = new Date("2026-09-18T19:45:00");
   var timerHandle = null;
 
   function button(text, action, className) {
@@ -128,10 +127,9 @@ window.EB = window.EB || {};
 
   function renderHome(navigate) {
     setActiveTab("home");
-    var scroll = begin(), st = EB.store.stats(EB.data.ids()), days = Math.ceil((EXAM_DATE - new Date()) / 86400000);
+    var scroll = begin(), st = EB.store.stats(EB.data.ids());
     view.appendChild(el("div", { class: "hero" }, el("h1", {}, "Einbürgerungstest Trainer"),
-      el("p", {}, "All 300 general + 10 Berlin questions — official BAMF catalogue, with the answer key from oet.bamf.de and an English explanation on every question."),
-      el("p", {}, days > 0 ? days + " day" + (days === 1 ? "" : "s") + " until your exam (18 Sep 2026, VHS Pankow)." : "Viel Erfolg!")));
+      el("p", {}, "All 300 general + 10 Berlin questions — official BAMF catalogue, with the answer key from oet.bamf.de and an English explanation on every question.")));
     view.appendChild(el("div", { class: "stat-row" }, statTile(st.seen + "/" + st.total, "seen"),
       statTile(st.mastered, "answered right"), statTile(EB.store.streak().current, "day streak")));
     var modes = el("div", { class: "grid mode-grid" });
