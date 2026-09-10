@@ -135,7 +135,8 @@ window.EB = window.EB || {};
     view.appendChild(el("div", { class: "stat-row" }, statTile(st.seen + "/" + st.total, "seen"),
       statTile(st.mastered, "answered right"), statTile(EB.store.streak().current, "day streak")));
     var modes = el("div", { class: "grid mode-grid" });
-    [["Browse", "Read all questions, reveal answers + English"], ["Quiz", "Answer with instant feedback"],
+    [["Learn", "Understand the reasoning — history, government, the Grundgesetz"],
+      ["Browse", "Read all questions, reveal answers + English"], ["Quiz", "Answer with instant feedback"],
       ["Exam", "33 questions, 60 min, pass ≥ 17"], ["Focus", "Only what you got wrong or starred"]].forEach(function (m) {
       modes.appendChild(el("a", { class: "mode-card", href: "#/" + m[0].toLowerCase() },
         el("h2", { class: "mc-title" }, m[0]), el("div", { class: "mc-desc" }, m[1])));
@@ -333,6 +334,8 @@ window.EB = window.EB || {};
     else if (h === "/focus") renderDeck("focus", navigate);
     else if (h === "/exam") renderExam(navigate);
     else if (h === "/stats") renderStats(navigate);
+    else if (h === "/learn" && EB.learn) EB.learn.renderIndex(navigate);
+    else if (h.slice(0, 7) === "/learn/" && EB.learn) EB.learn.renderLesson(decodeURIComponent(h.slice(7)), navigate);
     else renderHome(navigate);
   }
   function init() {
@@ -341,6 +344,6 @@ window.EB = window.EB || {};
     }
     initTheme(); wireTopbar(); window.addEventListener("hashchange", route); route();
   }
-  EB.app = { init: init };
+  EB.app = { init: init, view: view, begin: begin, finish: finish, setActiveTab: setActiveTab, storageWarning: storageWarning, button: button };
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
 })();

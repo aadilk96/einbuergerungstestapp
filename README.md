@@ -1,6 +1,6 @@
 # Einbürgerungstest Trainer — Berlin
 
-A static German citizenship-test study app with **310 questions: 300 general + 10 Berlin**, German source text, English explanations, and the answer key captured from the official BAMF Online-Testcenter.
+A static German citizenship-test study app with **310 questions: 300 general + 10 Berlin**, German source text, English explanations, and the answer key captured from the official BAMF Online-Testcenter. A **Learn** mode adds 12 long-form lessons — German history, how the government is built, and the reasoning behind the Grundgesetz — each linking to the exact catalogue questions it explains.
 
 **Live app:** https://einbuergerungstest-berlin.vercel.app
 
@@ -18,6 +18,7 @@ Open http://127.0.0.1:8124. Alternatively, open `app/index.html` directly. The c
 
 ## Features
 
+- **Learn:** 12 lessons in four tracks (history, democracy, society, Berlin) that teach the reasoning behind the answers, with always-visible core sections plus collapsible "go deeper" sections. Each lesson embeds the live verified questions it explains and never restates the answer key, so its prose cannot drift from the verified data.
 - **Browse:** read questions, reveal answers, expand English explanations, filter and jump by number.
 - **Quiz:** shuffled practice with immediate feedback.
 - **Focus:** practice wrong or starred questions independently of the Quiz round.
@@ -36,6 +37,7 @@ app/                      Static hosting root
   js/                     Plain browser scripts
   data/questions.js       Runtime payload (window.QUESTIONS)
   data/questions.json     Reference copy, not required at runtime
+  data/lessons.js         Learn-mode lessons (window.LESSONS)
   assets/img/             25 original question image assets
   vercel.json             Static hosting/cache settings
 pipeline/

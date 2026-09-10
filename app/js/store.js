@@ -2,7 +2,9 @@
 window.EB = window.EB || {};
 (function () {
   var KEY = "eb_state_v1";
+  var LEARN_KEY = "eb_learn_v1"; // separate key; never mixed into eb_state_v1 (zero migration risk)
   var available = true;
+  function lessonSlug(k) { return typeof k === "string" && /^[a-z0-9-]{1,64}$/.test(k); }
   function defaults() {
     return {
       seen: {}, correct: {}, wrong: {}, last: {}, starred: {},
@@ -49,6 +51,30 @@ window.EB = window.EB || {};
     return d;
   }
   var state = defaults();
+
+  // ---- Learn-mode progress (separate store, same in-memory-fallback discipline) ----
+  var learn = { read: {} };
+  function normalizeLearn(p) {
+    var d = { read: {} };
+    if (object(p) && object(p.read)) {
+      Object.keys(p.read).forEach(function (id) { if (lessonSlug(id) && p.read[id] === true) d.read[id] = true; });
+    }
+    return d;
+  }
+  function loadLearn() {
+    var raw;
+    try { raw = localStorage.getItem(LEARN_KEY); available = true; }
+    catch (e) { available = false; return learn; }
+    try { learn = normalizeLearn(raw ? JSON.parse(raw) : null); }
+    catch (e) { learn = { read: {} }; }
+    return learn;
+  }
+  function saveLearn() {
+    try { localStorage.setItem(LEARN_KEY, JSON.stringify(learn)); available = true; }
+    catch (e) { available = false; }
+    return available;
+  }
+
   function load() {
     var raw;
     try { raw = localStorage.getItem(KEY); available = true; }
@@ -116,7 +142,15 @@ window.EB = window.EB || {};
       });
       return { total: allIds.length, seen: seen, mastered: mastered, wrongNow: wrongNow, starred: Object.keys(state.starred).length };
     },
-    reset: function () { state = defaults(); save(); }
+    isLessonRead: function (id) { return !!learn.read[id]; },
+    markLessonRead: function (id, on) {
+      if (!lessonSlug(id)) return false;
+      if (on === false) delete learn.read[id]; else learn.read[id] = true;
+      saveLearn(); return !!learn.read[id];
+    },
+    readLessonCount: function () { return Object.keys(learn.read).length; },
+    reset: function () { state = defaults(); learn = { read: {} }; save(); saveLearn(); }
   };
   load();
+  loadLearn();
 })();

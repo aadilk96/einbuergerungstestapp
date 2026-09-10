@@ -120,7 +120,7 @@ class DeployTests(unittest.TestCase):
             path = self.app / name
             path.parent.mkdir(parents=True, exist_ok=True)
             path.write_text('fixture')
-        (self.app / 'index.html').write_text('<script src="data/questions.js"></script><script src="js/app.js"></script><link rel="stylesheet" href="css/styles.css">')
+        (self.app / 'index.html').write_text('<script src="data/questions.js"></script><script src="data/lessons.js"></script><script src="js/learn.js"></script><script src="js/app.js"></script><link rel="stylesheet" href="css/styles.css">')
         for name in ('README.md', 'data/questions.json', 'js/secret.js', '.env', 'private/secret.txt'):
             path = self.app / name
             path.parent.mkdir(parents=True, exist_ok=True)

@@ -20,8 +20,9 @@ from urllib.parse import urlencode, urlsplit
 DEFAULT_PROJECT = "einbuergerungstest-berlin"
 APP = Path(__file__).resolve().parent.parent / "app"
 API_ROOT = "https://api.vercel.com"
-REQUIRED = {"index.html", "vercel.json", "css/styles.css", "data/questions.js",
-            "js/store.js", "js/data.js", "js/session.js", "js/ui.js", "js/app.js"}
+REQUIRED = {"index.html", "vercel.json", "css/styles.css", "data/questions.js", "data/lessons.js",
+            "js/store.js", "js/data.js", "js/session.js", "js/ui.js", "js/learn.js", "js/app.js"}
+DATA_SCRIPTS = {"data/questions.js", "data/lessons.js"}  # plain-script data payloads, not fetched JSON
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".ico"}
 
 
@@ -72,7 +73,7 @@ def gather(app_dir=APP):
     files = set(REQUIRED)
     for script in references.scripts:
         # Data remains a plain script, not a fetch of the reference JSON copy.
-        directory = "data" if isinstance(script, str) and urlsplit(script).path == "data/questions.js" else "js"
+        directory = "data" if isinstance(script, str) and urlsplit(script).path in DATA_SCRIPTS else "js"
         relative = local_reference(script, directory, ".js")
         files.add(relative)
     for style in references.styles:

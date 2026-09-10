@@ -41,7 +41,7 @@ async (page) => {
     for (const width of [320, 375, 390, 430, 768, 1280]) {
       await tab.setViewportSize({ width, height: 844 });
       for (const theme of ['light', 'dark']) {
-        for (const mode of ['home', 'browse', 'quiz', 'exam', 'focus', 'stats']) {
+        for (const mode of ['home', 'learn', 'browse', 'quiz', 'exam', 'focus', 'stats']) {
           await go(mode);
           await tab.evaluate(theme => document.documentElement.setAttribute('data-theme', theme), theme);
           await layout(mode + '/' + theme);
