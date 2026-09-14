@@ -134,6 +134,7 @@ window.EB = window.EB || {};
       statTile(st.mastered, "answered right"), statTile(EB.store.streak().current, "day streak")));
     var modes = el("div", { class: "grid mode-grid" });
     [["Learn", "Understand the reasoning — history, government, the Grundgesetz"],
+      ["Vocab", "The test-specific German words, ranked by how often they appear"],
       ["Browse", "Read all questions, reveal answers + English"], ["Quiz", "Answer with instant feedback"],
       ["Exam", "33 questions, 60 min, pass ≥ 17"], ["Focus", "Only what you got wrong or starred"]].forEach(function (m) {
       modes.appendChild(el("a", { class: "mode-card", href: "#/" + m[0].toLowerCase() },
@@ -334,6 +335,7 @@ window.EB = window.EB || {};
     else if (h === "/stats") renderStats(navigate);
     else if (h === "/learn" && EB.learn) EB.learn.renderIndex(navigate);
     else if (h.slice(0, 7) === "/learn/" && EB.learn) EB.learn.renderLesson(decodeURIComponent(h.slice(7)), navigate);
+    else if (h === "/vocab" && EB.vocab) EB.vocab.render(navigate);
     else renderHome(navigate);
   }
   function init() {

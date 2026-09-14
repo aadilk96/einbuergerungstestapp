@@ -21,8 +21,9 @@ DEFAULT_PROJECT = "einbuergerungstest-berlin"
 APP = Path(__file__).resolve().parent.parent / "app"
 API_ROOT = "https://api.vercel.com"
 REQUIRED = {"index.html", "vercel.json", "css/styles.css", "data/questions.js", "data/lessons.js",
-            "js/store.js", "js/data.js", "js/session.js", "js/ui.js", "js/learn.js", "js/app.js"}
-DATA_SCRIPTS = {"data/questions.js", "data/lessons.js"}  # plain-script data payloads, not fetched JSON
+            "data/vocab.js", "js/store.js", "js/data.js", "js/session.js", "js/ui.js", "js/learn.js",
+            "js/vocab.js", "js/app.js"}
+DATA_SCRIPTS = {"data/questions.js", "data/lessons.js", "data/vocab.js"}  # plain-script data payloads, not fetched JSON
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".ico"}
 
 

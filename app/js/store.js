@@ -3,6 +3,7 @@ window.EB = window.EB || {};
 (function () {
   var KEY = "eb_state_v1";
   var LEARN_KEY = "eb_learn_v1"; // separate key; never mixed into eb_state_v1 (zero migration risk)
+  var VOCAB_KEY = "eb_vocab_v1"; // separate key too; same isolation rationale as LEARN_KEY
   var available = true;
   function lessonSlug(k) { return typeof k === "string" && /^[a-z0-9-]{1,64}$/.test(k); }
   function defaults() {
@@ -71,6 +72,29 @@ window.EB = window.EB || {};
   }
   function saveLearn() {
     try { localStorage.setItem(LEARN_KEY, JSON.stringify(learn)); available = true; }
+    catch (e) { available = false; }
+    return available;
+  }
+
+  // ---- Vocab-mode "known" flags (separate store, mirrors the Learn block) ----
+  var vocab = { known: {} };
+  function normalizeVocab(p) {
+    var d = { known: {} };
+    if (object(p) && object(p.known)) {
+      Object.keys(p.known).forEach(function (id) { if (lessonSlug(id) && p.known[id] === true) d.known[id] = true; });
+    }
+    return d;
+  }
+  function loadVocab() {
+    var raw;
+    try { raw = localStorage.getItem(VOCAB_KEY); available = true; }
+    catch (e) { available = false; return vocab; }
+    try { vocab = normalizeVocab(raw ? JSON.parse(raw) : null); }
+    catch (e) { vocab = { known: {} }; }
+    return vocab;
+  }
+  function saveVocab() {
+    try { localStorage.setItem(VOCAB_KEY, JSON.stringify(vocab)); available = true; }
     catch (e) { available = false; }
     return available;
   }
@@ -149,8 +173,16 @@ window.EB = window.EB || {};
       saveLearn(); return !!learn.read[id];
     },
     readLessonCount: function () { return Object.keys(learn.read).length; },
-    reset: function () { state = defaults(); learn = { read: {} }; save(); saveLearn(); }
+    isVocabKnown: function (id) { return !!vocab.known[id]; },
+    markVocabKnown: function (id, on) {
+      if (!lessonSlug(id)) return false;
+      if (on === false) delete vocab.known[id]; else vocab.known[id] = true;
+      saveVocab(); return !!vocab.known[id];
+    },
+    knownVocabCount: function () { return Object.keys(vocab.known).length; },
+    reset: function () { state = defaults(); learn = { read: {} }; vocab = { known: {} }; save(); saveLearn(); saveVocab(); }
   };
   load();
   loadLearn();
+  loadVocab();
 })();

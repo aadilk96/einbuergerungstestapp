@@ -19,6 +19,7 @@
       </button>
       <nav class="tabs" id="tabs" aria-label="Study modes">
         <a href="#/learn" data-tab="learn">Learn</a>
+        <a href="#/vocab" data-tab="vocab">Vocab</a>
         <a href="#/browse" data-tab="browse">Browse</a>
         <a href="#/quiz" data-tab="quiz">Quiz</a>
         <a href="#/exam" data-tab="exam">Exam</a>
@@ -42,12 +43,14 @@
 <!-- Data first (window.QUESTIONS / window.LESSONS) so it works from file:// with no server. -->
 <script src="data/questions.js"></script>
 <script src="data/lessons.js"></script>
+<script src="data/vocab.js"></script>
 <!-- App scripts, plain (no ES modules) for offline double-click robustness. -->
 <script src="js/store.js"></script>
 <script src="js/data.js"></script>
 <script src="js/session.js"></script>
 <script src="js/ui.js"></script>
 <script src="js/learn.js"></script>
+<script src="js/vocab.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>
